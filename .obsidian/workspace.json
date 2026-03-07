@@ -97,30 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character-Seraphel.md",
+                "file": "Characters/Character-Elara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character-Seraphel"
-            }
-          },
-          {
-            "id": "af2683b4711d5618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Desmond.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Desmond"
+              "title": "Character-Elara"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -293,17 +279,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af2683b4711d5618",
+  "active": "6e7edd3f2a2155a2",
   "lastOpenFiles": [
+    "Characters/Character-Lady Sera.md",
+    "Characters/Character-Elara.md",
+    "Chapters/Chapter 2 - Mine.md",
+    "Characters/Character-Seraphel.md",
+    "RAWS/Raw-10.md",
+    "RAWS/Raw-9.md",
+    "Characters/Character-Aldric.md",
     "Characters/Character-Desmond.md",
     "Characters/Character-Zephyrion Nightshade.md",
     "Details.md",
-    "Characters/Character-Seraphel.md",
     "Characters/Character-Lillinara.md",
     "Characters/Character-Reina.md",
     "Characters/Character-Scarlet.md",
-    "Characters/Untitled.md",
-    "RAWS/Raw-9.md",
     "RAWS/Raw-8.md",
     "RAWS/Raw-7.md",
     "RAWS/Raw-6.md",
@@ -317,9 +307,7 @@
     "Chapters/Chapter 1 — The Sacrifice Arrives.md",
     "Chapters",
     "Arcs",
-    "Characters/Character-Lady Sera.md",
     "Characters/Character-Celeste.md",
-    "Characters/Character-Aldric.md",
     "Untitled/desktop.ini",
     "Untitled",
     "Characters/Untitled",
