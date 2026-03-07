@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details.md",
+                "file": "Characters/Character-Desmond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Details"
+              "title": "Character-Desmond"
             }
           }
         ],
@@ -295,6 +295,8 @@
   },
   "active": "af2683b4711d5618",
   "lastOpenFiles": [
+    "Characters/Character-Desmond.md",
+    "Characters/Character-Zephyrion Nightshade.md",
     "Details.md",
     "Characters/Character-Seraphel.md",
     "Characters/Character-Lillinara.md",
@@ -306,7 +308,6 @@
     "RAWS/Raw-7.md",
     "RAWS/Raw-6.md",
     "RAWS/Raw-5.md",
-    "Characters/Character-Zephyrion Nightshade.md",
     "Timeline.md",
     "RAWS/Raw-4.md",
     "RAWS/Raw-2.md",
@@ -317,7 +318,6 @@
     "Chapters",
     "Arcs",
     "Characters/Character-Lady Sera.md",
-    "Characters/Character-Desmond.md",
     "Characters/Character-Celeste.md",
     "Characters/Character-Aldric.md",
     "Untitled/desktop.ini",
