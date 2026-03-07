@@ -95,14 +95,14 @@
             "id": "6e7edd3f2a2155a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Characters/Character-Elara.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Character-Elara"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -279,10 +279,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e7edd3f2a2155a2",
+  "active": "27433c4cd786b58c",
   "lastOpenFiles": [
-    "Characters/Character-Lady Sera.md",
+    "RAWS/Raw-11.md",
+    "Characters/Character-Lillinara.md",
     "Characters/Character-Elara.md",
+    "Characters/Character-Lady Sera.md",
     "Chapters/Chapter 2 - Mine.md",
     "Characters/Character-Seraphel.md",
     "RAWS/Raw-10.md",
@@ -291,7 +293,6 @@
     "Characters/Character-Desmond.md",
     "Characters/Character-Zephyrion Nightshade.md",
     "Details.md",
-    "Characters/Character-Lillinara.md",
     "Characters/Character-Reina.md",
     "Characters/Character-Scarlet.md",
     "RAWS/Raw-8.md",
@@ -313,7 +314,6 @@
     "Characters/Untitled",
     "Scenario.md",
     "Characters",
-    "Welcome.md",
     "desktop.ini"
   ]
 }

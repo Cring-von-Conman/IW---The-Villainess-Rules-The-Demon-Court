@@ -1,2 +1,8 @@
 
-/.obsidian/*
+# Ignore the .obsidian folder, which contains Obsidian's configuration and plugins
+.obsidian/
+
+
+
+
+/.obsidian/workspace.json
