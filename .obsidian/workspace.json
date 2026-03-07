@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "5b8ec4fbfa51fc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed6e538f7447e859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8448fb0de2bef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Seraphel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Seraphel"
+            }
+          },
+          {
+            "id": "b4418a74dd9386e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Desmond.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Desmond"
+            }
+          },
+          {
+            "id": "e992a865deeb37b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Aldric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Aldric"
+            }
+          },
+          {
+            "id": "7158711d37cb21fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Lillinara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Lillinara"
+            }
+          },
+          {
+            "id": "d2a4aa525d4a770d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Lady Sera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Lady Sera"
+            }
+          },
+          {
+            "id": "ec6497201b18e8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Reina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Reina"
+            }
+          },
+          {
+            "id": "6e7edd3f2a2155a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character-Seraphel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character-Seraphel"
+            }
+          },
+          {
+            "id": "af2683b4711d5618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Details"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d46921c95dbf1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "550641751cedb6f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758ac5e029dc9563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18941b3b70c38f33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cbab22b048466ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd9453c19d98dc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a6eab386e61880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238891c072bc33dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Details"
+            }
+          },
+          {
+            "id": "91ddb250440f38f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Details"
+            }
+          },
+          {
+            "id": "d0dbb9c538bd4c9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89f751c6bf02907b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72a5fe2e854f0290",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Details.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Details"
+            }
+          },
+          {
+            "id": "27433c4cd786b58c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "af2683b4711d5618",
+  "lastOpenFiles": [
+    "Details.md",
+    "Characters/Character-Seraphel.md",
+    "Characters/Character-Lillinara.md",
+    "Characters/Character-Reina.md",
+    "Characters/Character-Scarlet.md",
+    "Characters/Untitled.md",
+    "RAWS/Raw-9.md",
+    "RAWS/Raw-8.md",
+    "RAWS/Raw-7.md",
+    "RAWS/Raw-6.md",
+    "RAWS/Raw-5.md",
+    "Characters/Character-Zephyrion Nightshade.md",
+    "Timeline.md",
+    "RAWS/Raw-4.md",
+    "RAWS/Raw-2.md",
+    "RAWS/Raw-3.md",
+    "RAWS/Raw-1.md",
+    "RAWS",
+    "Chapters/Chapter 1 — The Sacrifice Arrives.md",
+    "Chapters",
+    "Arcs",
+    "Characters/Character-Lady Sera.md",
+    "Characters/Character-Desmond.md",
+    "Characters/Character-Celeste.md",
+    "Characters/Character-Aldric.md",
+    "Untitled/desktop.ini",
+    "Untitled",
+    "Characters/Untitled",
+    "Scenario.md",
+    "Characters",
+    "Welcome.md",
+    "desktop.ini"
+  ]
+}
