@@ -11,14 +11,14 @@
             "id": "2a86dc9608389e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Chapters/Chapter 4 - Sharp Things.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Details.md",
+                "bFile": "Details.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Chapter 4 - Sharp Things"
+              "icon": "diff",
+              "title": "Diff: Details  (Working Tree)"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "2a86dc9608389e29",
   "lastOpenFiles": [
-    "RAWS/Raw-19.md",
+    "Details.md",
+    "Timeline.md",
     "Chapters/Chapter 4 - Sharp Things.md",
+    "RAWS/Raw-19.md",
     "RAWS/Raw-18.md",
     "RAWS/Raw-17.md",
     "RAWS/Raw-16.md",
-    "Timeline.md",
     "Chapters/Chapter 3 - The Shape of a Thing.md",
     "RAWS/Raw-15.md",
     "Player-Cring.md",
@@ -220,7 +221,6 @@
     "Characters/Character-Aldric.md",
     "Characters/Character-Desmond.md",
     "Characters/Character-Zephyrion Nightshade.md",
-    "Details.md",
     "Characters/Character-Reina.md",
     "RAWS",
     "Chapters",
