@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed6e538f7447e859",
+        "id": "ef87a59a0f6e27f9",
         "type": "tabs",
         "children": [
           {
-            "id": "7c8448fb0de2bef3",
+            "id": "2a86dc9608389e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character-Seraphel.md",
+                "file": "Chapters/Chapter 4 - Sharp Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character-Seraphel"
-            }
-          },
-          {
-            "id": "b4418a74dd9386e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Desmond.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Desmond"
-            }
-          },
-          {
-            "id": "e992a865deeb37b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Aldric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Aldric"
-            }
-          },
-          {
-            "id": "7158711d37cb21fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Lillinara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Lillinara"
-            }
-          },
-          {
-            "id": "d2a4aa525d4a770d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Lady Sera.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Lady Sera"
-            }
-          },
-          {
-            "id": "ec6497201b18e8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Reina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Character-Reina"
-            }
-          },
-          {
-            "id": "6e7edd3f2a2155a2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Chapter 4 - Sharp Things"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,40 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27433c4cd786b58c",
+  "active": "2a86dc9608389e29",
   "lastOpenFiles": [
+    "RAWS/Raw-19.md",
+    "Chapters/Chapter 4 - Sharp Things.md",
+    "RAWS/Raw-18.md",
+    "RAWS/Raw-17.md",
+    "RAWS/Raw-16.md",
+    "Timeline.md",
+    "Chapters/Chapter 3 - The Shape of a Thing.md",
+    "RAWS/Raw-15.md",
+    "Player-Cring.md",
+    "RAWS/Raw-14.md",
+    "RAWS/Raw-13.md",
+    "RAWS/Raw-12.md",
     "RAWS/Raw-11.md",
+    "Chapters/Chapter 1 - The Sacrifice Arrives.md",
+    "RAWS/Raw-10.md",
     "Characters/Character-Lillinara.md",
     "Characters/Character-Elara.md",
     "Characters/Character-Lady Sera.md",
     "Chapters/Chapter 2 - Mine.md",
     "Characters/Character-Seraphel.md",
-    "RAWS/Raw-10.md",
     "RAWS/Raw-9.md",
     "Characters/Character-Aldric.md",
     "Characters/Character-Desmond.md",
     "Characters/Character-Zephyrion Nightshade.md",
     "Details.md",
     "Characters/Character-Reina.md",
-    "Characters/Character-Scarlet.md",
-    "RAWS/Raw-8.md",
-    "RAWS/Raw-7.md",
-    "RAWS/Raw-6.md",
-    "RAWS/Raw-5.md",
-    "Timeline.md",
-    "RAWS/Raw-4.md",
-    "RAWS/Raw-2.md",
-    "RAWS/Raw-3.md",
-    "RAWS/Raw-1.md",
     "RAWS",
-    "Chapters/Chapter 1 — The Sacrifice Arrives.md",
     "Chapters",
     "Arcs",
-    "Characters/Character-Celeste.md",
     "Untitled/desktop.ini",
     "Untitled",
     "Characters/Untitled",
-    "Scenario.md",
     "Characters",
     "desktop.ini"
   ]
