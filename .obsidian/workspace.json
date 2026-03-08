@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Details.md",
-                "bFile": "Details.md",
+                "aFile": "Characters/Character-Seraphel.md",
+                "bFile": "Characters/Character-Seraphel.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Details  (Working Tree)"
+              "title": "Diff: Character-Seraphel  (Working Tree)"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "2a86dc9608389e29",
   "lastOpenFiles": [
+    "Characters/Character-Seraphel.md",
     "Details.md",
     "Timeline.md",
     "Chapters/Chapter 4 - Sharp Things.md",
@@ -216,7 +217,6 @@
     "Characters/Character-Elara.md",
     "Characters/Character-Lady Sera.md",
     "Chapters/Chapter 2 - Mine.md",
-    "Characters/Character-Seraphel.md",
     "RAWS/Raw-9.md",
     "Characters/Character-Aldric.md",
     "Characters/Character-Desmond.md",
