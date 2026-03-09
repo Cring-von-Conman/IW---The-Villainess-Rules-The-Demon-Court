@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "961551e883cc95cd",
+        "id": "167a6e829927717d",
         "type": "tabs",
         "children": [
           {
-            "id": "1861fdb670b17661",
+            "id": "24a94a313df6ebb7",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Chapters/Chapter 1 - The Sacrifice Arrives.md",
-                "bFile": "Chapters/Chapter 1 - The Sacrifice Arrives.md",
+                "aFile": "Chapters/Chapter 4 - Sharp Things.md",
+                "bFile": "Chapters/Chapter 4 - Sharp Things.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Chapter 1 - The Sacrifice Arrives  (Working Tree)"
+              "title": "Diff: Chapter 4 - Sharp Things  (Working Tree)"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1861fdb670b17661",
+  "active": "24a94a313df6ebb7",
   "lastOpenFiles": [
+    "Chapters/Chapter 4 - Sharp Things.md",
     "Chapters/Chapter 1 - The Sacrifice Arrives.md",
     "Chapters/Chapter 5 - The Tide Comes In.md",
     "RAWS/Raw-24.md",
@@ -209,7 +210,6 @@
     "Characters/Character-Lady Sera.md",
     "Characters/Character-Seraphel.md",
     "Timeline.md",
-    "Chapters/Chapter 4 - Sharp Things.md",
     "RAWS/Raw-18.md",
     "RAWS/Raw-17.md",
     "RAWS/Raw-16.md",

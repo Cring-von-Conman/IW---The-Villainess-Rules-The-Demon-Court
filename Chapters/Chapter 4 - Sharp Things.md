@@ -30,13 +30,21 @@ The room took a moment to catch up to what she was actually saying. Putting her 
 
 Zephyrion needed to go for a walk. Like a man. Not a king.
 
+**The Corridor — The Break** The room cleared. Scarlet used the navigation token Lillinara hadn't given her yet — she would need to go find the facilities the old-fashioned way. On the return, she walked slowly, nodding to each servant she passed until she left their domain.
+
+Outside the map room, Lillinara was waiting. She'd been there the whole time, apparently unable to resist. She had an ornately carved obsidian token — warm to the touch, glows when you hold it and think of what you need — and she had a theory about what the "dramatic thing" was. Scarlet wrapped her tail around one of Lillinara's hands while standing just a little too close and asked what she thought. Lillinara figured it out immediately and said it with barely contained glee: a stage, a story, Scarlet making the stuffy lords choke on their own hypocrisy. It was going to be magnificent. Reina, from the doorway, pointed out the facilities were the other direction, voice slightly thick.
+
+Scarlet took Reina's hands, squeezed them, brushed her cheek with her tail, and said: "You make me happy too, you know that right?" Then the urgency won and she fast-walked away declaring FACILITIES. Reina was left standing in the doorway, hands still slightly raised where Scarlet had held them, a dazed smile spreading across her face, heart hammering.
+
 **Map Room — Tea Diplomacy** Seraphel returned first. Scarlet, alone with him, asked what his desired outcome was — in detail, between us girls. The phrase landed precisely where she aimed it, a small intimacy, an acknowledged recognition of the secret he kept close. His mask slipped for a fraction of a second.
 
 He answered honestly. Two outcomes: complete ideological dismantling of the traditionalist faction — not just defeat but erasure of their doctrine from credible discourse — and the establishment of a new power centre built on the principle she embodied. True power comes from the realm itself. She would be that centre's heart. The Empress question becomes relevant only if the first outcome triggers the second. If the hall turns to her in awe rather than fear, the transition is already complete and the plea is a formality.
 
+He delivered this while watching her heat the kettle directly with her power — no flame, no heat source, just her will and the realm's fundamentals brought to bear on a pot of water. A tiny, breathtaking domestic display. She was making tea while planning a revolution. It suited her entirely.
+
 Scarlet: "A spoon is more useful than a sword most of the time. If we want to be interesting, useful people we need to be more than weapons." And: his opinion was the same as Desmond's. Seraphel quietly considered whether he had ever been anything but a weapon polished for a specific purpose.
 
-She heated the kettle directly with her power rather than searching for a heat source. A tiny, breathtaking display of her bond with the realm's fundamentals. Then she served him tea.
+She served him tea.
 
 Zephyrion returned from the battlements, having heard enough. Tomorrow at dusk. The Conclave Hall. He had decided. "I am prepared to follow the story where it leads. Even if it leads away from my throne." His thoughts were not of loss but of grim acceptance of a logic greater than himself. _The realm has chosen. I will not stand against the tide._
 
@@ -48,7 +56,7 @@ Aldric returned, received tea, held it in both hands, stared at nothing, thought
 
 Desmond had been in the corner the entire time. Silent, unseen, watching. He stepped forward only to remark on the tableau — the general with his cup, the king with his resolve, the advisor with his proofs, and the architect of it all offering warmth — and then slipped away to his library to savour the scent of what was brewing before the unveiling.
 
-Zephyrion departed last. "I will see you at dusk. In the Hall of Worms."
+Zephyrion departed last. His thoughts: _leagues off the chart, and she is the cartographer._ He vanished around the corner.
 
 **Map Room — The Outline and After** Reina arrived with fresh rolls and dark honey from the kitchen. The staff had been very eager to help. Scarlet took the basket with her tail and gave Reina a quick hug.
 
@@ -74,9 +82,9 @@ Scarlet called after his departing back: "I haven't met her yet. I look forward 
 
 Seraphel kept walking. His thoughts: _anticipation, anxiety, and a strange hopeful dread. The complication deepens._
 
-**Map Room — What Has Been Achieved** Everyone departed. Zephyrion last, with a final look — _leagues off the chart, and she is the cartographer_ — before vanishing around the corner.
+Zephyrion departed last. A final look back — _leagues off the chart, and she is the cartographer_ — then: "I will see you at dusk. In the Hall of Worms." And he was gone.
 
-Silence. Just Scarlet and Reina.
+**Map Room — What Has Been Achieved** Silence. Just Scarlet and Reina.
 
 Scarlet asked Reina to tell her in detail what she thought had been achieved. Confirmation that she wasn't just having a fanciful dream where everything goes her way.
 
