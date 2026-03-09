@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ecd194e1b45cae9",
+        "id": "961551e883cc95cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a727fbf934604d48",
+            "id": "1861fdb670b17661",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character-Lady Sera.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Character-Lady Sera"
+              "title": "New tab"
             }
           }
         ]
@@ -194,13 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a727fbf934604d48",
+  "active": "758ac5e029dc9563",
   "lastOpenFiles": [
-    "Characters/Character-Seraphel.md",
+    "RAWS/Raw-23.md",
+    "RAWS/Raw-24.md",
     "Details.md",
+    "RAWS/Raw-22.md",
+    "RAWS/Raw-21.md",
+    "RAWS/Raw-20.md",
+    "RAWS/Raw-19.md",
+    "RAWS/Raw-2.md",
+    "Characters/Character-Lady Sera.md",
+    "Characters/Character-Seraphel.md",
     "Timeline.md",
     "Chapters/Chapter 4 - Sharp Things.md",
-    "RAWS/Raw-19.md",
     "RAWS/Raw-18.md",
     "RAWS/Raw-17.md",
     "RAWS/Raw-16.md",
@@ -215,13 +218,6 @@
     "RAWS/Raw-10.md",
     "Characters/Character-Lillinara.md",
     "Characters/Character-Elara.md",
-    "Characters/Character-Lady Sera.md",
-    "Chapters/Chapter 2 - Mine.md",
-    "RAWS/Raw-9.md",
-    "Characters/Character-Aldric.md",
-    "Characters/Character-Desmond.md",
-    "Characters/Character-Zephyrion Nightshade.md",
-    "Characters/Character-Reina.md",
     "RAWS",
     "Chapters",
     "Arcs",
