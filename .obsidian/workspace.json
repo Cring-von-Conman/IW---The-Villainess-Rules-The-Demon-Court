@@ -11,10 +11,14 @@
             "id": "1861fdb670b17661",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAWS/Raw-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Raw-24"
             }
           }
         ]
@@ -190,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "758ac5e029dc9563",
+  "active": "1861fdb670b17661",
   "lastOpenFiles": [
-    "RAWS/Raw-23.md",
     "RAWS/Raw-24.md",
+    "RAWS/Raw-23.md",
     "Details.md",
     "RAWS/Raw-22.md",
     "RAWS/Raw-21.md",
