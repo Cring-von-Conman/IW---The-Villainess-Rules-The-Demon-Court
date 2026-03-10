@@ -55,6 +55,8 @@ No other sections. No grouping within sections. No sub-headers. Each entry is a 
 
 **Batch size:** Updates are performed in batches of exactly 5 raws. If fewer than 5 new raws exist, do not update Timeline.md yet. Wait until 5 are available.
 
+**Each batch is presented in its own message for review.** After processing a batch of 5, present the updated Timeline.md and wait for confirmation before proceeding to the next batch. Do not process multiple batches in a single message.
+
 **Always use raws, never chapters.** Chapter summaries are compressed and will have lost detail. Raws are the authoritative source.
 
 **Always read the raw in full** before extracting timeline entries. Do not rely on memory of prior discussion.
