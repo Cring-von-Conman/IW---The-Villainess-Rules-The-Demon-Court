@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15 **Last Updated:** Raw-15
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20 **Last Updated:** Raw-20
 
 ---
 
@@ -56,6 +56,8 @@ When the engine pulls back to show private moments (a character alone in their r
 - Lower vaults: location of the Stonemother and the Familiar's vault; sounds of crystal breaking after midnight indicate Stonemother dreaming (Raw-9)
 - Null-chamber: circular room lined with soft grey felt; utterly silent and dead air; dampens ambient magic and external sensations; contains a black stone pedestal that chimes when magical control is impure; used by Seraphel for magical testing (Raw-13)
 - Map Room: heavy double doors of dark wood inlaid with silver continent tracings; massive circular obsidian table etched with a glowing 3D map of the known realms; sideboard with provisions; used for small strategic councils (Raw-14)
+- Grand Conclave Hall: the oldest, most powerful acoustic and magical resonances in the castle; used for formal gatherings of demon nobility; location chosen for Scarlet's ideological address to the traditionalist faction (Raw-16/17)
+- Sunken Garden: geological anomaly — a deep, sheltered sinkhole within the castle grounds; lush strange flora; lit by faint light filtering from high above; contains an obsidian weeping willow (leaves shimmering polished black, not green); first meeting point of Scarlet and Lady Sera (Raw-19)
 
 ---
 
@@ -119,12 +121,32 @@ When the engine pulls back to show private moments (a character alone in their r
 - Helps with focus; distinct from shadow-petal tea
 - On Scarlet: confirmed effective; gives momentary quiet to her usually loud mind (Raw-14)
 
+### Amethyst Sugar
+
+- Crystallized mineral dust from the Glimmering Depths, infused with a mild euphoric essence
+- Harmless; described as "pleasant"
+- Used as a garnish on almond shortbread biscuits served in the Map Room (Raw-14/15)
+
 ---
 
 ## Entities & Spirits
 
-### The Stonemother
+### Seraphel / Lady Sera
 
+- Two forms of a single consciousness; the transition is fully controlled — described as "like changing a gown," not a flip
+- In male form (Seraphel): emotions locked away, intellect paramount
+- In female form (Lady Sera): analytical mind softened, emotions nearer the surface; described as "less like a performance and more like a sigh of relief"
+- The core — memories, loyalty, self — is identical in both forms
+- Lillinara's gift enables the transformation; she does not pretend to be Lady Sera but enables a truer expression of self
+- The court believes they are two separate individuals; the duality is a closely guarded secret
+- Lady Sera's mind is shielded: psychic reading returns a perfect mirror, reflecting the reader's own intent rather than any surface thoughts
+- Scarlet identified the duality in the Sunken Garden (Raw-19); informed Seraphel directly shortly after
+- Lady Sera's preferred form is the female one
+
+### Obsidian Navigation Token
+
+- Small, ornately carved obsidian token; warm to the touch; given to Scarlet by Lillinara (Raw-16)
+- Glows and points in the direction of whatever the holder focuses on needing: facilities, libraries, best pastries, etc.
 - Ancient entity residing in the lower vaults of the castle
 - Currently in a state of dreaming
 - Sound of crystal breaking in the lower vaults after midnight = Stonemother dreaming
@@ -205,7 +227,7 @@ When the engine pulls back to show private moments (a character alone in their r
 - Aftermath: obsidian tracery beneath skin, magma-light in eyes, rapid cellular regeneration, magma blood
 - Seraphel's assessment: power is untrained and unfocused; will seek outlets; requires tuition immediately
 - Signatures stabilised after Scarlet consciously contained the power
-- Possible origin of demonkind: Scarlet asked whether the first demon lords — the sires of the race — came from First Convergence events; question raised in Raw-15 but not yet answered
+- Possible origin of demonkind: confirmed by Seraphel in Raw-16 — the first demon lords were not born of bloodlines but of catastrophic, conscious mergings with raw elemental and chaotic forces; they were the First Convergences; the traditionalist "purity" doctrine is therefore ideologically self-defeating, as their own founding sires were "abominations" by their own definition
 
 ### The Second Convergence
 
@@ -290,8 +312,24 @@ When the engine pulls back to show private moments (a character alone in their r
 - Castle safety ordinances: at least seven govern interaction with shadow-wyrms from the guest spire
 - Strategic maps of the human kingdom held by Zephyrion; copies provided to Scarlet on Day 1 evening
 
-### Traditionalist Faction
+### Scarlet's Political Status (as of Raw-18)
 
+- Explicitly NOT Zephyrion's queen or wife; relinquished all claim and obligation tied to that title (Raw-15)
+- Operates as an independent consultant/sounding board on her own terms
+- Zephyrion owes bed and board to Scarlet and Reina as restitution for the circumstances of her arrival
+- Empress title explicitly offered as a future possibility, contingent on Zephyrion making a formal "plea" — stated without irony (Raw-15)
+- Has no formal responsibility to the realm; any help given is voluntary
+- Zephyrion's stated intent (Raw-18): "The throne is a seat. It is not the realm. If the realm's heartbeat now echoes in another, then that is where authority resides." — effectively accepting a potential transfer of sovereignty
+
+### Grand Conclave Strategy (planned for Day 3, dusk)
+
+- Location: Grand Conclave Hall
+- Step one: Give the traditionalist faction the stage first; let them state their full position and expose their alliances publicly — no backtracking possible
+- While they speak: Seraphel and Lillinara identify and map every faction member and undecided noble in the crowd
+- Step two: Scarlet takes the stage immediately after; tells her story through to the First Convergence, unscripted
+- Step three: Lillinara called to the stage to give honest firsthand witness testimony of the First Convergence event
+- Ideological weapon: the first demon lords were themselves First Convergences — the traditionalist purity doctrine collapses under its own history
+- Possible outcome: acclamation as Empress by the court, bypassing a formal plea; Zephyrion has accepted this possibility
 - Not a monolith — a network rooted in three pillars: bloodline purity, territorial sovereignty, and opposition to the human treaty
 - Military wing: holds key fortresses in border territories; believes strength = conquest; Vorlag was a symptom; will push for overt action after his death
 - Political wing: attempts to destabilize Zephyrion's authority in border regions; will claim he has lost control to an external force
@@ -331,4 +369,4 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ## Mutation Log
 
-_(No mutations recorded — Raws 1–15. All additions from Raws 11–15 were new entries or expansions with no contradictions of previously established canon.)_
+_(No mutations recorded — Raws 1–20. All additions from Raws 16–20 were new entries or expansions with no contradictions of previously established canon.)_
