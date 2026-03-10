@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25, Raw-26, Raw-27, Raw-28, Raw-29, Raw-30, Raw-31, Raw-32, Raw-33, Raw-34, Raw-35 **Last Updated:** Raw-35
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25, Raw-26, Raw-27, Raw-28, Raw-29, Raw-30, Raw-31, Raw-32, Raw-33, Raw-34, Raw-35, Raw-36, Raw-37, Raw-38, Raw-39-FtB, Raw-40, Raw-41, Raw-42 **Last Updated:** Raw-42
 
 ---
 
@@ -73,6 +73,15 @@ When the engine pulls back to show private moments (a character alone in their r
 - Humans believe the region is haunted or cursed — expeditions return with reports of whispering rocks and a feeling the ground is hungry
 - Contains a mountain pass that leads practically to the human capital's doorstep
 - First identified as a target for demonic expansion by Desmond and Lillinara independently (Raw-5)
+- Home of the silverpine glow-worm; part of its life cycle involves spinning silk cocoons — this is the source of Silver Moon Silk (see below)
+- Scarlet's plan: travel to the Marches covertly under Lord Vex's merchant cover; spend ~one week in a subterranean sanctuary pumping the land full of the Night Realm's essence; the ley-line connection back to the Night Realm should keep her "wired up to home" during her stay; final act is to ensure the last harvestable batch of glow-worm cocoons is thoroughly contaminated with her essence before the land becomes inhospitable to humans (Raw-36–37)
+
+### Silver Moon Silk
+
+- The most coveted textile in the human courts; used for liturgical robes and royal banners of the Sun-King
+- Production is a state secret guarded by the crown's own mages in the Silverpine Marches
+- Source: silverpine glow-worm cocoons
+- The Silk Gambit: once Scarlet's essence saturates the Marches, the glow-worms will absorb it; their silk will no longer be Silver Moon Silk but a new product — "Empress-kissed silk" or similar; Scarlet will impose a 20% Crown tax on all sales of the new silk; Lord Vex will hold the monopoly in exchange for funding the territorial occupation (Raw-36, Raw-42)
 
 ### Whispering Caves
 
@@ -92,7 +101,7 @@ When the engine pulls back to show private moments (a character alone in their r
 - Fly near the western spire; capable of aerial manoeuvres (loop-de-loops observed by Lillinara)
 - Feeding from the guest spire violates at least seven castle safety ordinances
 - Western ramparts are the designated feeding point; permits required
-- Bumpy the goat: specific goat acquired by Lillinara (Raw-2/4), intended as a shadow-wyrm offering; named in Lillinara's note
+- Bumpy the goat: specific goat acquired by Lillinara (Raw-2/4), intended as a shadow-wyrm offering; named in Lillinara's note; forgotten during Days 2–3; Scarlet and Lillinara remembered him with horror as they left the Hall of Worms on Day 4 morning — still undelivered to the wyrms as of Raw-42 end
 
 ### Giant Crystal-Bats
 
@@ -175,7 +184,9 @@ When the engine pulls back to show private moments (a character alone in their r
 - In a state of dreaming, bound; its thoughts a slow repeating pulse of loyalty and waiting
 - Essence drop 1 (Night 1, Raw-11): Familiar stirred without waking; loyalty faintly tinged with recognition
 - Essence drop 2 (Night 2, Raw-25): the Familiar devoured the offering with "archaic, ravenous greed"; deep stone tremors rippled through the castle; one eye opened — a slit of molten gold, blinking in the darkness; iron bonds began spiderwebbing with hairline stress fractures; settled into a low rumbling vibration of "patient, sharpening anticipation"
-- The engine's summary note at session end (Raw-8 region): third drop given; SOON. THE MOUNTAIN WAITS.
+- Essence drop 3 (Night 3 / early Day 4, Raw-40): Scarlet delivered from the balcony after the bath; the Familiar sensed the drop before it struck the stone; the chains groaned with a sound "like grinding continents"; one massive sulfur-yellow slitted eye snapped open; the psychic response was a violent roar of recognition — "YES. TAKE. BIND. CONSUME. WE ARE THE MOUNTAIN'S TEETH."; both Reina and Lillinara reacted with sympathetic flares in their sleep through the essence link
+- Scarlet's reply to the third drop: "Soon" (mental caress); she knows the mountain could open a direct path to the vault but the time is not yet right
+- Final pulse in Raw-42: SOON. THE MOUNTAIN WAITS.
 - Nature, origin, and full significance still unknown
 
 ---
@@ -372,8 +383,38 @@ When the engine pulls back to show private moments (a character alone in their r
 - The court roared: "Hail the Empress! Hail the Heart of the World!"
 - Dismissal: "You have the chance you were going to deny me. There will be no second chance. Dismissed."
 
-### Victory Breakfast — Post-Conclave (Raw-31–32)
+### The Bath — Night of Day 3 (Raw-38–39-FtB, Raw-40)
 
+- Attendees: Scarlet, Reina, Lillinara, Lady Sera, Elara
+- Lady Sera arrived; this was her first time joining the group; first kiss with Scarlet occurred in the bath (Raw-39-FtB)
+- Elara was explicitly given a verbal consent check by Scarlet before disrobing — pulled aside, told directly that the invitation was not a command, she could leave with no consequences, and could withdraw from any activity at any time; Elara chose to stay (Raw-38)
+- Scarlet's stated reason for the consent check: "I need to be clear because our station is so different"
+- Elara's response: "I want to be here. With you. All of you."
+- Fade to black end (Raw-39-FtB); last line before FtB: "I am the land… and the land belongs to its people"
+- Post-bath: Scarlet was the only one not exhausted; towelled the women off herself (her core heat evaporated the water from her own skin in moments); ushered all four into her bed in underclothes; asked the castle to warm the ambient air by a degree or two to help them sleep; tucked them in herself (Raw-40)
+
+### Third Essence Drop to the Familiar (Raw-40)
+
+- Delivered from the balcony after the women were asleep
+- The Familiar sensed the drop before it struck the stone; the chains groaned; one massive sulfur-yellow slitted eye opened in the dark
+- Response: a violent psychic roar — "YES. TAKE. BIND. CONSUME. WE ARE THE MOUNTAIN'S TEETH."
+- Scarlet's reply: "Soon" with a loving mental caress; she noted the mountain itself could open a path to the vault, but the time is not yet right
+- Reina and Lillinara's gifted sparks reacted to the Familiar's stirring even in their sleep (Reina's skin flared; Lillinara's wings quivered)
+
+### Dawn Flight — End of Night 3 / Dawn Day 4 (Raw-40)
+
+- After the third essence drop Scarlet took wing from the balcony
+- Chased the last stars of the night, riding thermals from the magma flows; noted these provide excellent lift for winged creatures
+- On a whim, plummeted in a steep dive back to the courtyard — sent the thought ahead: _You'll catch me, won't you? I trust you_
+- The castle stone liquefied and rippled where her shadow touched down, forming a yielding cradle; it caught her silently and resettled into pristine obsidian the moment her boots were steady
+- Zephyrion witnessed it from the main archway; reaction: a shark-like grin, "The mountain has never been so eager to be a landing pad"
+
+### Reina's Shadow-Plate Armour (Raw-42)
+
+- Aldric reached the final quenching stage as of Day 4 morning
+- Described as "a weightless skin designed for the Hand of a Sovereign"
+- Being etched with the same traceries that now burn beneath Reina's skin (from the Essence Gift)
+- Expected completion: blood-moon's rise, Day 4, Week 1 (tonight)
 - Inner circle gathered in Scarlet's tower; Elara had prepared the feast in advance (floating violet witch-light orbs, silver-boar, honeyed nectar, spiced wine)
 - Zephyrion initially attempted to withdraw after delivering titles; Scarlet called him back directly: "You WILL enjoy it too. Otherwise you're just perpetrating the same isolation you've forced on yourself this last 200 years."
 - Elara invited to sit at the table; told she is "one of us"; her title confirmed as Empress's Lady (Head Maid, Housekeeper, Castellan all considered and rejected)
@@ -458,6 +499,47 @@ When the engine pulls back to show private moments (a character alone in their r
 - Lord Desmond has infiltration and shadow-operation assets within the Night Realm
 - Described as having "certain talents" for work that requires subtlety rather than military force (Raw-6)
 - Accepted the Vorlag assignment with evident relish
+
+---
+
+## War Campaign — The Kingdom
+
+### Campaign Timeline (finalised Raw-37)
+
+Full sequence as planned by Scarlet, confirmed with Zephyrion and Desmond:
+
+1. **Immediately:** Desmond deploys vampire house agents to infiltrate privateer crews and kingdom port towns — no overt moves yet; this is the controlling time factor
+2. **Scarlet travels to Silverpine Marches** covertly under Lord Vex's merchant cover; spends ~one week in a subterranean sanctuary saturating the land with Night Realm essence; contaminates the final glow-worm silk harvest; returns home
+3. **Desmond triggers outrage** over "missing" shipments (the first naval provocations)
+4. **Abyssal Skimmers move into position** during the fuss; golems begin massing in the Night Realm (far enough from the border to avoid detection)
+5. **Abyssal Skimmers strike** — ships disappear, no survivors, no witnesses; priority is escape and invisibility; let paranoia run rampant
+6. **~2 weeks later:** Privateer crews (now vampire-infiltrated) flip overtly, visibly attacking kingdom shipping; Night Realm continues claiming the privateers attack them too; Skimmers support in a no-survivors capacity
+7. **~1 week later:** Port towns erupt in violence from planted agents
+8. **Golems begin marching** (First Feint — main road, expendable distraction)
+9. **Simultaneously:** Scarlet and main forces strike through the Silverpine pass directly at the human capital; Vex's fortifications lock down the Marches so the humans cannot use the pass themselves
+10. **Strategic aim:** Port town violence forces the kingdom to pull ground forces back to protect civilian infrastructure; the resulting mispositioning means they cannot regroup in time when the real assault hits the capital from the other side of the country
+
+### The Silk Gambit — Lord Vex (Raw-36, Raw-41–42)
+
+- Scarlet recruited Lord Vex the morning after the Conclave (Day 4, Week 1)
+- Deal: Vex sets up merchant ventures in the Silverpine Marches immediately, providing cover for Scarlet's covert visit; he prepares a subterranean sanctuary for her week-long stay; when the humans evacuate the Marches (made inhospitable by Scarlet's essence saturation), Vex's people claim the territory and with it the glow-worms; the contaminated silk becomes a new luxury product carrying Scarlet's essence; Vex holds the monopoly
+- Crown tax: 20% of final sale price on all Empress-infused silk, non-negotiable
+- Additional obligation: Vex must fortify the Marches settlement and be prepared to repel lingering humans and lock down the pass approaches when the main assault launches
+- Scarlet's framing: Vex is a tool now, not an enemy; he gets one chance; if he leaks the plan or fails, she will eat him; oversight of Vex to be handled by Desmond (pressure/intimidation) and Seraphel (logistics/taxation auditing) so Scarlet does not have to deal with him directly unless demanding results
+- Vex's internal calculation noted: he would have accepted 40% just to keep other noble houses from competing
+
+### Night Realm Naval Assets — Abyssal Skimmers
+
+- Obsidian-hulled vessels capable of submerging beneath the waves
+- Few in number but nearly invisible to human radar and magic
+- The Night Realm does not build traditional wooden galleons — these are their unconventional navy (Raw-36)
+
+### War Footing (Raw-37)
+
+- Transition to full war footing ordered by Scarlet; Zephyrion to execute
+- Directives: corner markets on non-perishable food supplies for standard troops; begin stockpiling weapons; forge output to be maximised
+- Vex will be aware that the Night Realm is mobilising for a territorial move, but not the full scale or direction
+- The mobilisation posture will remind surviving traditionalists that Scarlet promised them exactly this on her first night
 
 ---
 
