@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25 **Last Updated:** Raw-25
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25, Raw-26, Raw-27, Raw-28, Raw-29, Raw-30 **Last Updated:** Raw-30
 
 ---
 
@@ -233,6 +233,18 @@ When the engine pulls back to show private moments (a character alone in their r
 - Uncontrolled use risks psychic feedback affecting everyone in range
 - Described as "a violation of the mind's sanctum" by Desmond
 
+### The First Convergence
+
+- Demonic myth: the moment a singular consciousness bonds with the foundational essence of the realm, becoming a true native rather than an inhabitant
+- Said to happen only once in an age
+- Triggered by Scarlet on Day 1, Week 1 — deliberately absorbed and bound the realm's essence to herself at the western spire window
+- Process: absorbed ambient essence, then the mist of mana from every race/creature in the realm, then commanded it to bind to every fibre of self (soul, spirit, flesh, blood)
+- Physical signs during event: visible vortex of dark energy; motes of violet and crimson light drawn from castle stones; obsidian fractures briefly appearing on window frame
+- Aftermath: obsidian tracery beneath skin, magma-light in eyes, rapid cellular regeneration, magma blood
+- Seraphel's assessment: power is untrained and unfocused; will seek outlets; requires tuition immediately
+- Signatures stabilised after Scarlet consciously contained the power
+- Confirmed origin of demonkind (Raw-16): the first demon lords were not born of bloodlines but of catastrophic, conscious mergings with raw elemental and chaotic forces; they were the First Convergences; the traditionalist "purity" doctrine is therefore ideologically self-defeating
+
 ### The Second Convergence
 
 - Triggered Night 2, Week 1 (Raw-24)
@@ -242,20 +254,7 @@ When the engine pulls back to show private moments (a character alone in their r
 - Practical effect: Scarlet's tower is now an extension of her own body; the balcony pulses and hums in response to her state of mind and physical return
 - Zephyrion felt his own grip on the castle's ambient magic recede in real-time as Scarlet's authority replaced it — he yielded deliberately
 - Castle-wide: shadows lengthened and breathed; ambient magic took on a static charge; iron locks in the lower foundations shivered after the second essence drop on Night 2
-- Demonic myth: the moment a singular consciousness bonds with the foundational essence of the realm, becoming a true native rather than an inhabitant
-- Said to happen only once in an age
-- Triggered by Scarlet on Day 1, Week 1 — deliberately absorbed and bound the realm's essence to herself at the western spire window
-- Process: absorbed ambient essence, then the mist of mana from every race/creature in the realm, then commanded it to bind to every fibre of self (soul, spirit, flesh, blood)
-- Physical signs during event: visible vortex of dark energy; motes of violet and crimson light drawn from castle stones; obsidian fractures briefly appearing on window frame
-- Aftermath: obsidian tracery beneath skin, magma-light in eyes, rapid cellular regeneration, magma blood
-- Seraphel's assessment: power is untrained and unfocused; will seek outlets; requires tuition immediately
-- Signatures stabilised after Scarlet consciously contained the power
-- Possible origin of demonkind: confirmed by Seraphel in Raw-16 — the first demon lords were not born of bloodlines but of catastrophic, conscious mergings with raw elemental and chaotic forces; they were the First Convergences; the traditionalist "purity" doctrine is therefore ideologically self-defeating, as their own founding sires were "abominations" by their own definition
-
-### The Second Convergence
-
-- Theoretical next stage: learning to project the bonded power outward, shaping the realm
-- Not yet triggered as of Raw-5
+- Conclave extension (Raw-29): Scarlet requested an obsidian podium rise beneath her feet in real time during the Conclave — the castle complied instantly, elevating her above both court and throne; also manifested a new obsidian throne on the exact stage centerline and shifted Zephyrion's off-center on command
 
 ### The Third Convergence
 
@@ -344,8 +343,37 @@ When the engine pulls back to show private moments (a character alone in their r
 - Has no formal responsibility to the realm; any help given is voluntary
 - Zephyrion's stated intent (Raw-18): "The throne is a seat. It is not the realm. If the realm's heartbeat now echoes in another, then that is where authority resides." — effectively accepting a potential transfer of sovereignty
 
-### Grand Conclave Strategy (planned for Day 3, dusk)
+### Grand Conclave — Execution and Outcome (Day 3, dusk — Raw 27–30)
 
+- Scarlet entered the Conclave Hall fully masked: wings retracted internally, horns and tail hidden, quartz lenses on; flanked by Aldric and Reina
+- Traditionalists took the stage first as planned; the elderly head of House Vex called for Scarlet's immediate execution by motion of dissolution; the court reached a baying fever pitch
+- Scarlet rose, walked to the stage, and asked for "final words" — deliberately ambiguous about whose words would be final
+- Speech outline: her arrival and unexpected sense of belonging; the First Convergence story handed to Lillinara mid-speech; horns emerged as Lillinara spoke; tail uncoiled to full 10-metre length; wings unfurled with a loud crack; quartz lenses removed; power unleashed — floor glowing, heat haze visible, eyes fully lit; viscount hoisted by tail and thrown across the room
+- Desmond called to the stage: testified on the blood, soul, and primordial nature of what Scarlet is; "to call her a bride is to call a hurricane a summer breeze"
+- Scarlet requested the castle raise an obsidian podium beneath her feet, towering above throne and court simultaneously
+- Final question to the room: "Why should I not devour every single one of you?" then "What is the correct response when one such as I appears?"
+- Lord Vex: collapsed, forehead to floor, offered his house and lineage; "we did not know"
+- Zephyrion knelt — voluntary, deliberate, royal acknowledgement of a superior power
+- Reina knelt at the base of the podium
+- Scarlet's response: told them to kneel with demon pride rather than grovel; declared she did not want Zephyrion's crown but commanded him to forge a new one — an Empress's crown — of obsidian; had the castle manifest her own throne on the exact centerline of the dais, Zephyrion's shifted slightly off-center
+- The court roared: "Hail the Empress! Hail the Heart of the World!"
+- Dismissal: "You have the chance you were going to deny me. There will be no second chance. Dismissed."
+
+### Post-Conclave Restructuring (Raw-30)
+
+- Scarlet explicitly confirmed: Zephyrion retains his crown and commands the same respect as before; she is above, not replacing him
+- Command structure established:
+    - Desmond and Lillinara: under Scarlet's direct command
+    - Reina: personal command (unchanged)
+    - Aldric: nominally remains under Zephyrion, but carries Scarlet's authority; her blessing to wield it
+    - Seraphel: same as Aldric
+- Titles assigned:
+    - Reina: Hand of the Empress (armour to be forged by Aldric — enchanted plate, light as second skin)
+    - Lillinara: Hand of the Empress (silken robes, shadow-glass jewellery housing spells — no armour)
+    - Desmond: Seneschal of the Empire
+    - All: Councillors of the Empress
+- Scarlet's tower confirmed as permanent imperial quarters; will not move; Zephyrion to reinforce wards
+- Elara: elevated to Empress's personal maid; to be assigned mentor Kaelen (Zephyrion's head steward) for court logistics; Lillinara to teach court navigation and "the devastating smile"; Reina to oversee basic combat drills
 - Location: Grand Conclave Hall
 - Step one: Give the traditionalist faction the stage first; let them state their full position and expose their alliances publicly — no backtracking possible
 - While they speak: Seraphel and Lillinara identify and map every faction member and undecided noble in the crowd
@@ -401,4 +429,4 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ## Mutation Log
 
-_(No mutations recorded — Raws 1–25. All additions from Raws 21–25 were new entries or expansions with no contradictions of previously established canon.)_
+**Raw-26–30 (batch 6):** Fixed a structural error — the First Convergence header had been absorbed into the Second Convergence block during a previous edit. Restored as a separate headed entry. Content unchanged, no canon contradictions. All other additions from Raws 26–30 were new entries only.
