@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10 **Last Updated:** Raw-10
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15 **Last Updated:** Raw-15
 
 ---
 
@@ -49,11 +49,13 @@ When the engine pulls back to show private moments (a character alone in their r
 - Separate royal study (Zephyrion's), private study (Seraphel's), royal armory, larders/kitchens
 - Castle's ambient magic responds to Scarlet — when she merged with the realm's essence, ovens in western kitchens wept blood; localized tremors were reported
 - Night kitchens: open at any hour; accessible to those who know the servants' passphrase — "Bumpy sends his regards" (Raw-9)
-- East training grounds: Aldric's domain at dawn; described as "scary-fair" (Raw-9)
+- East training grounds: Aldric's domain at dawn; wide flat expanse of dark compacted earth ringed by high obsidian walls; far end has a sheer cliff dropping to the abyss; training dummies, weapon racks, wooden structures including elevated platforms with sand pits beneath; described as "scary-fair" (Raw-9/12)
 - West yards: afternoon; used for show-offs and political manoeuvres; Lillinara advises avoiding (Raw-9)
 - Old arena under the north keep: mostly abandoned; sand floor; regular occupant is Gor the minotaur; safe and neutral training ground (Raw-9)
 - East barracks: under Commander Vorlag (traditionalist); houses a significant portion of the garrison
-- Lower vaults: location of the Stonemother; sounds of crystal breaking after midnight indicate she is dreaming (Raw-9)
+- Lower vaults: location of the Stonemother and the Familiar's vault; sounds of crystal breaking after midnight indicate Stonemother dreaming (Raw-9)
+- Null-chamber: circular room lined with soft grey felt; utterly silent and dead air; dampens ambient magic and external sensations; contains a black stone pedestal that chimes when magical control is impure; used by Seraphel for magical testing (Raw-13)
+- Map Room: heavy double doors of dark wood inlaid with silver continent tracings; massive circular obsidian table etched with a glowing 3D map of the known realms; sideboard with provisions; used for small strategic councils (Raw-14)
 
 ---
 
@@ -110,6 +112,13 @@ When the engine pulls back to show private moments (a character alone in their r
 - On Scarlet: makes her more aware of her volcanic energy; does not induce fatigue; leaves her charged and awake
 - On Reina: described as "peaceful" and "like a dream of a warm wind"
 
+### Sunken Gardens Tea
+
+- Brewed with moon-bloom petals and crushed starstone
+- Tastes like "quiet" — gives brief moments of psychic silence after each sip
+- Helps with focus; distinct from shadow-petal tea
+- On Scarlet: confirmed effective; gives momentary quiet to her usually loud mind (Raw-14)
+
 ---
 
 ## Entities & Spirits
@@ -120,7 +129,16 @@ When the engine pulls back to show private moments (a character alone in their r
 - Currently in a state of dreaming
 - Sound of crystal breaking in the lower vaults after midnight = Stonemother dreaming
 - Gets grumpy if woken; Lillinara advises leaving her alone (Raw-9)
-- Nature and full significance unknown as of Raw-10
+- Nature and full significance unknown as of Raw-15
+
+### The Familiar
+
+- Resides in the deepest, most secure vault of the castle
+- Not demon, not beast — older than both; simple in register but powerful in singular purpose
+- Discovered by Scarlet during her castle-wide psychic meditation on Night 1 (Raw-11)
+- In a state of dreaming, bound; its thoughts a slow repeating pulse of loyalty and waiting
+- Scarlet dropped a single drop of her essence into the vault as an offering (Raw-11); the Familiar stirred without waking; its loyalty faintly tinged with a new note of recognition
+- Nature, origin, and full significance unknown as of Raw-15
 
 ---
 
@@ -152,11 +170,22 @@ When the engine pulls back to show private moments (a character alone in their r
 ### Mind-Reading
 
 - Scarlet arrived with this ability — it was not in the original game scenario; described as "new"
-- Passive; range confirmed extends beyond the western spire — caught Seraphel's private thought while he was in the hallway/stairwell outside her room (Raw-7)
+- Passive; range confirmed extends beyond the western spire; in Raw-11 Scarlet consciously expanded awareness to cover the entire castle simultaneously
+- Castle-wide scan reveals individual minds as distinct presences: Seraphel (sharp, analytical), Aldric (heavy with guilt), Lillinara (playful, chaotic), Zephyrion (vast, weary, terrifyingly powerful, rooted in the castle's foundation like a great slumbering dragon)
 - Receives surface thoughts as clear, readable streams
 - Can read multiple minds simultaneously — described as a "low buzzing chorus"
 - Target does not know they are being read
 - First demonstrated on arrival: heard guard and driver thoughts in the carriage
+
+### Mind/Soul Consumption
+
+- First used on Commander Vorlag, Day 2, Week 1 (Raw-13)
+- Draws on the same feeling as the First Convergence but focused to a single point at the back of the throat
+- Process: ethereal strands of the target's essence (soul, memories, self) are drawn out through their orifices; consumed by the user
+- During consumption: Scarlet experienced flashes of Vorlag's memories and life as she absorbed them
+- Aftermath in target: body left a hollow shell; eyes empty and dull; face slack; complete death
+- Aftermath in Scarlet: the essence dissolved into the void, broken down into "raw materials" — no residue, no foreign personality asserting control (confirmed by Seraphel's null-chamber test, Raw-13)
+- Taste: described as cold and metallic — "the flavor of a life lived in rigid tradition"
 
 ### Psychic Push
 
@@ -176,6 +205,7 @@ When the engine pulls back to show private moments (a character alone in their r
 - Aftermath: obsidian tracery beneath skin, magma-light in eyes, rapid cellular regeneration, magma blood
 - Seraphel's assessment: power is untrained and unfocused; will seek outlets; requires tuition immediately
 - Signatures stabilised after Scarlet consciously contained the power
+- Possible origin of demonkind: Scarlet asked whether the first demon lords — the sires of the race — came from First Convergence events; question raised in Raw-15 but not yet answered
 
 ### The Second Convergence
 
@@ -205,6 +235,25 @@ When the engine pulls back to show private moments (a character alone in their r
 - Emotional states directly influence physical output — anger caused obsidian tracery to pulse crimson, floor to heat underfoot, and air to become uncomfortably warm (Raw-8)
 - Rage vented via screaming: Scarlet's scream infused with power created a sonic-thaumaturgic wave, caused a distant rockslide, and startled shadow-wyrms from their perches (Raw-8)
 - Tears are magma — they sizzle and evaporate on contact with stone (Raw-7)
+- Power responds to emotion, not command — when Scarlet projected joy during flight, the realm itself became slightly more buoyant, as if conspiring to keep her aloft (Raw-12)
+
+### Magic Emission (Controlled Projection)
+
+- Tested in the null-chamber by Seraphel, Day 2 (Raw-13/14)
+- Scarlet can create a stable sphere of power: described as darkness shot through with crimson threads; unique magical signature incorporating ambient chaos within her own matrix
+- Sphere reabsorption is clean — no wastage, no energetic backlash; described as uncommon efficiency
+- Sustained cutting beam: Seraphel describes Scarlet as a "focused conduit" at near-perfect efficiency; spatial distortion at focal point during compression; black stone glowed red from within at near-saturation before Seraphel ordered cessation
+- Unique signature: not pure demonic essence — Scarlet's power matrix is her own
+
+### Flight
+
+- Training began Day 2 with Aldric at the east training grounds (Raw-12)
+- Platform: ~10 feet high with sand pit beneath; used for initial controlled falls
+- First attempt: 2 seconds aloft; wing stall caused by differential pressure on left side
+- Second attempt: ~20 feet of controlled gliding; improvement attributed to releasing conscious control and focusing on destination rather than mechanics
+- Key principle: wings respond to intention and emotion, not conscious mechanical command; think of the destination, let the wings handle the journey
+- Wing concussive blast: a single powerful beat creates a shockwave sufficient to rock crossbowmen off their feet and send a volley wild (Raw-12)
+- Unsupervised: Scarlet began using the wing-beat force to gain altitude after the Vorlag incident (Raw-13)
 
 ### Demonic Transformation (General Rules)
 
@@ -241,8 +290,24 @@ When the engine pulls back to show private moments (a character alone in their r
 - Castle safety ordinances: at least seven govern interaction with shadow-wyrms from the guest spire
 - Strategic maps of the human kingdom held by Zephyrion; copies provided to Scarlet on Day 1 evening
 
-### House Vex
+### Traditionalist Faction
 
+- Not a monolith — a network rooted in three pillars: bloodline purity, territorial sovereignty, and opposition to the human treaty
+- Military wing: holds key fortresses in border territories; believes strength = conquest; Vorlag was a symptom; will push for overt action after his death
+- Political wing: attempts to destabilize Zephyrion's authority in border regions; will claim he has lost control to an external force
+- Economic wing: controls the realm's oldest gemstone mines and shadow-silk routes; uses wealth to buy loyalty within the castle itself; makes a full purge economically dangerous
+- Leadership: old nobles, descendants of the clans Zephyrion unified ~200 years ago
+- Allowed to persist because uprooting them would have meant civil war during external conflicts
+- Their "purity" doctrine classifies Scarlet as an "abomination twice over" — human-born, and now something beyond human
+- Vorlag's death has removed the "contained, known opposition" status; faction will now fracture and choose between overt attack, information warfare, or capitulation
+
+### Scarlet's Political Status (as of Raw-15)
+
+- Explicitly NOT Zephyrion's queen or wife; relinquished all claim and obligation tied to that title
+- Operates as an independent consultant/sounding board on her own terms
+- Zephyrion owes bed and board to Scarlet and Reina as restitution for the circumstances of her arrival
+- Empress title explicitly offered as a future possibility, contingent on Zephyrion making a formal "plea" — stated without irony (Raw-15)
+- Has no formal responsibility to the realm; any help given is voluntary
 - Noble house within the Night Realm court
 - Members identifiable by red armour
 - Known to issue private duel challenges and cheat; Lillinara explicitly warns never to accept a duel from them (Raw-9)
@@ -266,4 +331,4 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ## Mutation Log
 
-_(No mutations recorded — Raws 1–10. All new details from Raws 6–10 were additions to existing entries or new entries, with no contradictions of previously established canon.)_
+_(No mutations recorded — Raws 1–15. All additions from Raws 11–15 were new entries or expansions with no contradictions of previously established canon.)_
