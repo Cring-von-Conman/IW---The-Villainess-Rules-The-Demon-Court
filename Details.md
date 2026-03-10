@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5 **Last Updated:** Raw-5
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10 **Last Updated:** Raw-10
 
 ---
 
@@ -48,6 +48,12 @@ When the engine pulls back to show private moments (a character alone in their r
 - Western ramparts: designated area for recreational activities; requires permits for non-standard use
 - Separate royal study (Zephyrion's), private study (Seraphel's), royal armory, larders/kitchens
 - Castle's ambient magic responds to Scarlet — when she merged with the realm's essence, ovens in western kitchens wept blood; localized tremors were reported
+- Night kitchens: open at any hour; accessible to those who know the servants' passphrase — "Bumpy sends his regards" (Raw-9)
+- East training grounds: Aldric's domain at dawn; described as "scary-fair" (Raw-9)
+- West yards: afternoon; used for show-offs and political manoeuvres; Lillinara advises avoiding (Raw-9)
+- Old arena under the north keep: mostly abandoned; sand floor; regular occupant is Gor the minotaur; safe and neutral training ground (Raw-9)
+- East barracks: under Commander Vorlag (traditionalist); houses a significant portion of the garrison
+- Lower vaults: location of the Stonemother; sounds of crystal breaking after midnight indicate she is dreaming (Raw-9)
 
 ---
 
@@ -72,9 +78,8 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ## Wildlife & Creatures
 
-### Shadow-Wyrms
+### Shadow-Wyrms- Migratory — pass through the castle area seasonally
 
-- Migratory — pass through the castle area seasonally
 - Crepuscular in nature (active at dawn and dusk) — confirmed by Seraphel (Raw-2)
 - Primary diet: giant crystal-bats from the caverns beneath the castle
 - Will accept other meat (goat, cow confirmed as viable offerings)
@@ -88,6 +93,34 @@ When the engine pulls back to show private moments (a character alone in their r
 - Live in the caverns beneath the castle
 - Primary prey of shadow-wyrms
 - Protected by the Bat-Conservancy Guild
+
+### Gor
+
+- Old minotaur; regular occupant of the abandoned arena under the north keep
+- Does not care about race or species — judges only by how someone fights
+- Described by Lillinara as "lovely"; taught her to punch using her whole body; told her she had "spirit but terrible footwork"
+- Neutral and fair training partner; safe venue for Reina (Raw-9)
+
+### Shadow-Petal Blooms
+
+- Grow on the northern cliffs where shadow-wyrms nest
+- Absorb a piece of wyrm-dreams through osmosis — the wyrm still dreams; the bloom takes "the glow"
+- Brewed into tea: tastes like "a cozy sigh" / flying / the tail end of someone else's peaceful dream
+- Effect: floaty, thoughtful, mildly psychic aftertaste; does not quell volcanic energy but makes the drinker more aware of it; calming and sleep-conducive for normal beings
+- On Scarlet: makes her more aware of her volcanic energy; does not induce fatigue; leaves her charged and awake
+- On Reina: described as "peaceful" and "like a dream of a warm wind"
+
+---
+
+## Entities & Spirits
+
+### The Stonemother
+
+- Ancient entity residing in the lower vaults of the castle
+- Currently in a state of dreaming
+- Sound of crystal breaking in the lower vaults after midnight = Stonemother dreaming
+- Gets grumpy if woken; Lillinara advises leaving her alone (Raw-9)
+- Nature and full significance unknown as of Raw-10
 
 ---
 
@@ -119,9 +152,10 @@ When the engine pulls back to show private moments (a character alone in their r
 ### Mind-Reading
 
 - Scarlet arrived with this ability — it was not in the original game scenario; described as "new"
-- Passive; range at minimum covers the western spire
+- Passive; range confirmed extends beyond the western spire — caught Seraphel's private thought while he was in the hallway/stairwell outside her room (Raw-7)
 - Receives surface thoughts as clear, readable streams
 - Can read multiple minds simultaneously — described as a "low buzzing chorus"
+- Target does not know they are being read
 - First demonstrated on arrival: heard guard and driver thoughts in the carriage
 
 ### Psychic Push
@@ -157,15 +191,20 @@ When the engine pulls back to show private moments (a character alone in their r
 
 - Discovered Raw-3: Scarlet directed power to specific points on her body and pushed
 - Grew obsidian horns (curved, crimson-veined) and bat-like wings (deep grey, crimson-edged) by act of will; no ritual required
+- Grew a slender obsidian tail, spade-tipped, on Day 1 evening at the battlements (Raw-6) — prehensile; fine motor control immediate and full
 - Created temporary fangs by concentrating power on teeth (Raw-4)
-- Horns and wings can be retracted and re-extended at will; takes focused thought; leaves a warm tingle
+- Horns, wings, and tail can all be retracted and re-extended at will; takes focused thought; leaves a warm tingle; Scarlet describes feeling "undressed" without them
 - Speed of extension improves with practice
+- Disguise limitations: physical features can be retracted, but the metaphysical signature remains — to a trained mage or sensitive creature, Scarlet feels "deeply wrong, like a mountain wearing a cloak." To average humans, merely intense and unnerving. Cover story recommended: hooded cloak and a rare wasting disease to explain unusual appearance. Eyes are the primary risk — tinted lenses required (Raw-6)
 
 ### Power Containment / Ambient Emissions
 
 - Uncontained power radiates outward, causing environmental effects (weeping ovens, tremors, reality warps)
 - Controlled by imagining a "lid" over the internal void — confirmed effective, Raw-3
 - Lid can be partially lifted to direct power intentionally
+- Emotional states directly influence physical output — anger caused obsidian tracery to pulse crimson, floor to heat underfoot, and air to become uncomfortably warm (Raw-8)
+- Rage vented via screaming: Scarlet's scream infused with power created a sonic-thaumaturgic wave, caused a distant rockslide, and startled shadow-wyrms from their perches (Raw-8)
+- Tears are magma — they sizzle and evaporate on contact with stone (Raw-7)
 
 ### Demonic Transformation (General Rules)
 
@@ -176,10 +215,21 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ### Post-Convergence Biology
 
-- May draw energy directly from ambient magic; may require less food
+- Draws energy directly from ambient magic — confirmed as the likely cause of Scarlet not experiencing fatigue (Raw-6/7); body feels charged and awake; described as "like a predator waiting for dawn"
+- May require less food than before; traditional food still enjoyable and tolerable
 - Rapid cellular regeneration: wounds seal with an obsidian crust that flakes off cleanly
 - Blood is magma
 - Horns have heightened tactile sensitivity — early warning system for threats from above; sensation is pleasant
+- Tears are magma — sizzle and evaporate on stone contact
+- Eyes may begin to glow in the dark as integration accelerates — Seraphel flagged this as a timeline concern (Raw-7)
+
+### Tinted Lenses
+
+- Smoky quartz lenses in thin wire frames, provided by Seraphel via Elara on Day 1 evening (Raw-7)
+- Enchanted with a visual filter and mild psychic dampener
+- Makes Scarlet's eyes appear mundane (if intense) crimson to outside observers
+- Scarlet can see perfectly through them
+- Rushed delivery because integration is accelerating — eyes risk beginning to glow in the dark
 
 ---
 
@@ -191,8 +241,29 @@ When the engine pulls back to show private moments (a character alone in their r
 - Castle safety ordinances: at least seven govern interaction with shadow-wyrms from the guest spire
 - Strategic maps of the human kingdom held by Zephyrion; copies provided to Scarlet on Day 1 evening
 
+### House Vex
+
+- Noble house within the Night Realm court
+- Members identifiable by red armour
+- Known to issue private duel challenges and cheat; Lillinara explicitly warns never to accept a duel from them (Raw-9)
+- Lady Vex's spiteful daughter: mentioned as a person Elara previously served under, described negatively (Raw-10)
+
+### Commander Vorlag
+
+- Commands the east barracks
+- Traditionalist; commands loyalty of nearly a third of the garrison
+- Views humans as prisoners of war rather than treaty guests
+- Struck Reina Steelhart on her arrival; she broke his wrist in response
+- Scarlet ordered Desmond to ruin and then "disappear" him (Raw-8); changes to garrison command structure expected by morning of Day 2 (Raw-10)
+
+### Desmond's Court
+
+- Lord Desmond has infiltration and shadow-operation assets within the Night Realm
+- Described as having "certain talents" for work that requires subtlety rather than military force (Raw-6)
+- Accepted the Vorlag assignment with evident relish
+
 ---
 
 ## Mutation Log
 
-_(No mutations recorded — first batch, Raws 1–5.)_
+_(No mutations recorded — Raws 1–10. All new details from Raws 6–10 were additions to existing entries or new entries, with no contradictions of previously established canon.)_
