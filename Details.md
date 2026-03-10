@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20 **Last Updated:** Raw-20
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25 **Last Updated:** Raw-25
 
 ---
 
@@ -58,6 +58,8 @@ When the engine pulls back to show private moments (a character alone in their r
 - Map Room: heavy double doors of dark wood inlaid with silver continent tracings; massive circular obsidian table etched with a glowing 3D map of the known realms; sideboard with provisions; used for small strategic councils (Raw-14)
 - Grand Conclave Hall: the oldest, most powerful acoustic and magical resonances in the castle; used for formal gatherings of demon nobility; location chosen for Scarlet's ideological address to the traditionalist faction (Raw-16/17)
 - Sunken Garden: geological anomaly — a deep, sheltered sinkhole within the castle grounds; lush strange flora; lit by faint light filtering from high above; contains an obsidian weeping willow (leaves shimmering polished black, not green); first meeting point of Scarlet and Lady Sera (Raw-19)
+- Bathing chamber (western spire): carved directly into living rock; wide natural pool fed by geothermal spring and a slender waterfall; ceiling set with softly glowing crystals; water can be enhanced with Glimmering Depths salts that make it shimmer with internal light (Raw-20)
+- Scarlet's tower balcony: created by Second Convergence, Night 2; smooth dark glass-obsidian; cantilevered into the night; pulses and responds to Scarlet's state of mind (Raw-24)
 
 ---
 
@@ -127,6 +129,18 @@ When the engine pulls back to show private moments (a character alone in their r
 - Harmless; described as "pleasant"
 - Used as a garnish on almond shortbread biscuits served in the Map Room (Raw-14/15)
 
+### Void-Wheat Pastries
+
+- Made from Void-Wheat grown in the lower shadow-vaults
+- Perfectly edible for demons; causes violent cramping shivers and a sickly pallor in humans for ~18 hours
+- Has no effect on Scarlet (no longer human) — used as deliberate misdirection at the mingling to feign illness (Raw-22)
+
+### Essence of Numb-Root
+
+- Thick, viscous violet liquid; distilled Numb-Root essence
+- Causes glassy, unfocused eyes and clammy skin in humans
+- Has no effect on Scarlet — consumed as part of the "ailing bride" performance at the mingling (Raw-22)
+
 ---
 
 ## Entities & Spirits
@@ -159,8 +173,10 @@ When the engine pulls back to show private moments (a character alone in their r
 - Not demon, not beast — older than both; simple in register but powerful in singular purpose
 - Discovered by Scarlet during her castle-wide psychic meditation on Night 1 (Raw-11)
 - In a state of dreaming, bound; its thoughts a slow repeating pulse of loyalty and waiting
-- Scarlet dropped a single drop of her essence into the vault as an offering (Raw-11); the Familiar stirred without waking; its loyalty faintly tinged with a new note of recognition
-- Nature, origin, and full significance unknown as of Raw-15
+- Essence drop 1 (Night 1, Raw-11): Familiar stirred without waking; loyalty faintly tinged with recognition
+- Essence drop 2 (Night 2, Raw-25): the Familiar devoured the offering with "archaic, ravenous greed"; deep stone tremors rippled through the castle; one eye opened — a slit of molten gold, blinking in the darkness; iron bonds began spiderwebbing with hairline stress fractures; settled into a low rumbling vibration of "patient, sharpening anticipation"
+- The engine's summary note at session end (Raw-8 region): third drop given; SOON. THE MOUNTAIN WAITS.
+- Nature, origin, and full significance still unknown
 
 ---
 
@@ -217,8 +233,15 @@ When the engine pulls back to show private moments (a character alone in their r
 - Uncontrolled use risks psychic feedback affecting everyone in range
 - Described as "a violation of the mind's sanctum" by Desmond
 
-### The First Convergence
+### The Second Convergence
 
+- Triggered Night 2, Week 1 (Raw-24)
+- Not a ritual — an unconscious act; Scarlet wanted a door to the sky and let her power pool and communicate her desire to the castle
+- The stone turned malleable, the window expanded outward, a smooth glass-obsidian balcony extended from the tower wall — seamlessly, without rune or conduit
+- Lillinara's assessment: "You didn't just ask the stone to move. You reached out and fundamentally altered the castle's history. The realm is recognising you as its pulse."
+- Practical effect: Scarlet's tower is now an extension of her own body; the balcony pulses and hums in response to her state of mind and physical return
+- Zephyrion felt his own grip on the castle's ambient magic recede in real-time as Scarlet's authority replaced it — he yielded deliberately
+- Castle-wide: shadows lengthened and breathed; ambient magic took on a static charge; iron locks in the lower foundations shivered after the second essence drop on Night 2
 - Demonic myth: the moment a singular consciousness bonds with the foundational essence of the realm, becoming a true native rather than an inhabitant
 - Said to happen only once in an age
 - Triggered by Scarlet on Day 1, Week 1 — deliberately absorbed and bound the realm's essence to herself at the western spire window
@@ -330,6 +353,15 @@ When the engine pulls back to show private moments (a character alone in their r
 - Step three: Lillinara called to the stage to give honest firsthand witness testimony of the First Convergence event
 - Ideological weapon: the first demon lords were themselves First Convergences — the traditionalist purity doctrine collapses under its own history
 - Possible outcome: acclamation as Empress by the court, bypassing a formal plea; Zephyrion has accepted this possibility
+- Reveal plan: Scarlet will sheath wings, horns, and hide tail completely until she takes the stage; only as she speaks will she allow them to show — maximum psychological impact
+
+### The Mingling (Night 2, Grand Hall — executed)
+
+- Gown: third option, living shadow fabric with embroidery that pulses crimson when power flows; open-backed to frame wings; described by Reina as "a truth that can't be unsaid"
+- Strategy: play the meek bride; let them underestimate; consume void-wheat pastries and numb-root essence visibly to feign coming illness
+- Lord Vex confronted Scarlet publicly; she responded with total unbothered calm, forgot his name, commented on his weight obliquely; he was left publicly humiliated
+- Exited early by telling Zephyrion she felt unwell; Zephyrion covered for her, commanding the court to attend to her health
+- Effect: traditionalists now furious AND humiliated — will enter Conclave craving the spectacle of her begging, making them careless
 - Not a monolith — a network rooted in three pillars: bloodline purity, territorial sovereignty, and opposition to the human treaty
 - Military wing: holds key fortresses in border territories; believes strength = conquest; Vorlag was a symptom; will push for overt action after his death
 - Political wing: attempts to destabilize Zephyrion's authority in border regions; will claim he has lost control to an external force
@@ -369,4 +401,4 @@ When the engine pulls back to show private moments (a character alone in their r
 
 ## Mutation Log
 
-_(No mutations recorded — Raws 1–20. All additions from Raws 16–20 were new entries or expansions with no contradictions of previously established canon.)_
+_(No mutations recorded — Raws 1–25. All additions from Raws 21–25 were new entries or expansions with no contradictions of previously established canon.)_
