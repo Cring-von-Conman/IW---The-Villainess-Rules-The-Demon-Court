@@ -1,6 +1,6 @@
 # World Details & Established Canon
 
-**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25, Raw-26, Raw-27, Raw-28, Raw-29, Raw-30 **Last Updated:** Raw-30
+**Raws Used:** Raw-1, Raw-2, Raw-3, Raw-4, Raw-5, Raw-6, Raw-7, Raw-8, Raw-9, Raw-10, Raw-11, Raw-12, Raw-13, Raw-14, Raw-15, Raw-16, Raw-17, Raw-18, Raw-19, Raw-20, Raw-21, Raw-22, Raw-23, Raw-24, Raw-25, Raw-26, Raw-27, Raw-28, Raw-29, Raw-30, Raw-31, Raw-32, Raw-33, Raw-34, Raw-35 **Last Updated:** Raw-35
 
 ---
 
@@ -233,6 +233,18 @@ When the engine pulls back to show private moments (a character alone in their r
 - Uncontrolled use risks psychic feedback affecting everyone in range
 - Described as "a violation of the mind's sanctum" by Desmond
 
+### Essence Gift (Raw-34–35)
+
+- Scarlet can isolate a tiny fragment of her power — described as "the smallest drop from the wellspring" — and transfer it to another via deep kiss; the bead is placed on the tongue and passed into the recipient
+- Process requires focused psychic effort to separate the drop from the rest of her; she describes it as insignificant ("an atom in the sea") but Lillinara confirms it is equivalent to sharing the divine fire of a Convergence
+- Recipient 1 — Reina: golden light beneath the skin, amber eyes now carry a steady inner fire, old sword-scars healed to seamless skin, voice gains a faint tectonic resonance; the castle stone turned soft and slightly molten beneath her feet in acknowledgement; Seraphel noted: "You have created a new species of guardian"
+- Recipient 2 — Lillinara: violent purple lightning arc on skin at moment of transfer, sapphire-dark traceries appear, first words post-gift shattered the crystal glasses on the table; the reaction was described as "rapid, ecstatic combustion" compared to Reina's quiet settling
+- Scarlet's stated motivation: she didn't want Reina to keep thinking she was beneath her — "It makes me sad when you think that"
+- Extended to Lillinara immediately after for the same reason — she couldn't have her two Hands be "unequal"
+- Creates a persistent psychic bond: Scarlet can reach through the gifted fragments and communicate mind-to-mind with both women; both confirmed they could hear her clearly when tested
+- Confirmed irreversible: the recipients are now extensions of the castle's sovereign logic; the obsidian floor acknowledged Reina as an extension of Scarlet's will during the transfer
+- Seraphel's assessment: "You are not just building an empire. You are creating a family of gods in a den of ghosts."
+
 ### The First Convergence
 
 - Demonic myth: the moment a singular consciousness bonds with the foundational essence of the realm, becoming a true native rather than an inhabitant
@@ -315,6 +327,7 @@ When the engine pulls back to show private moments (a character alone in their r
 - Horns have heightened tactile sensitivity — early warning system for threats from above; sensation is pleasant
 - Tears are magma — sizzle and evaporate on stone contact
 - Eyes may begin to glow in the dark as integration accelerates — Seraphel flagged this as a timeline concern (Raw-7)
+- Metabolism evolving toward energy-state conversion (Raw-32): during the victory breakfast Scarlet noticed she felt no fuller despite eating a substantial amount; she suspects her body is now rendering physical matter to an energy state almost instantly — the same process that happened to Vorlag's soul, but applied to food; she also notes the emergency "dash to the restroom" on Day 2 may have been her last; Seraphel observed this independently, noting she was "transmuting, not digesting" — consistent with archival descriptions of how the First Lords eventually became closed systems of perfect, recycled energy
 
 ### Tinted Lenses
 
@@ -359,8 +372,29 @@ When the engine pulls back to show private moments (a character alone in their r
 - The court roared: "Hail the Empress! Hail the Heart of the World!"
 - Dismissal: "You have the chance you were going to deny me. There will be no second chance. Dismissed."
 
-### Post-Conclave Restructuring (Raw-30)
+### Victory Breakfast — Post-Conclave (Raw-31–32)
 
+- Inner circle gathered in Scarlet's tower; Elara had prepared the feast in advance (floating violet witch-light orbs, silver-boar, honeyed nectar, spiced wine)
+- Zephyrion initially attempted to withdraw after delivering titles; Scarlet called him back directly: "You WILL enjoy it too. Otherwise you're just perpetrating the same isolation you've forced on yourself this last 200 years."
+- Elara invited to sit at the table; told she is "one of us"; her title confirmed as Empress's Lady (Head Maid, Housekeeper, Castellan all considered and rejected)
+- Desmond's dietary preferences established: shadow-petal vintage (aged in presence of shadow-petals); violet-dusted pastries; does not require blood at every sitting
+- Seraphel fetched from the archives by page; joined the table; received the full restructuring briefing (especially Lillinara's elevation); reacted with visible, genuine pride for his sister rather than political calculation
+- Scarlet used her tail to steady Elara's trembling hands/arms under the table throughout the meal
+- Scarlet commanded everyone to eat: "I've talked too much. We're all here now. My council. My friends. ENJOY THE FOOD!" — and led by example
+- Mentorship of Elara: Seraphel to teach her to read the silence between a lord's words; Lillinara to teach the devastating smile and how to hide a dagger in a bouquet; Reina to oversee basic combat awareness; Zephyrion's head steward Kaelen assigned for court logistics
+- Zephyrion's first genuine laughter in the record: "a low, resonant rumble" at Scarlet's breakfast antics — noted as possibly the first in a century
+
+### Seraphel / Lady Sera Reveal (Raw-33)
+
+- Scarlet told Seraphel directly: "I met with Lady Sera yesterday. She told me everything, Seraphel."
+- Confirmed that Seraphel would not know Lady Sera had told her; Scarlet elected to tell him herself as a matter of respect
+- Stated clearly: "I don't like dicks. But I absolutely like Lady Sera. I told her I want to complete my set, and she seemed open to the idea."
+- Seraphel's analytical mask shattered; described as "a soul seen in its entirety for the first time in a century"; relief physically visible
+- Lillinara wept with manic joy; held Seraphel's arm throughout
+- Reina: visible shock at the "set" announcement; clarified by Scarlet on the spot ("I like girls!"); Reina confirmed it was "an open secret among the guard" in the human kingdom
+- Seraphel's response: "Lady Sera is rarely known to decline an invitation… I suspect she is already deciding which gown best suits a goddess's groove"
+- Scarlet asked Lillinara for tactical advice on drawing Lady Sera out; Lillinara: "You don't need to chase her — you merely need to build a fire so bright she can't help but step into the light"
+- Bath planned for ~2 hours after the meal; Lady Sera invited via Seraphel; Elara also personally invited by Scarlet (stairwell shout)
 - Scarlet explicitly confirmed: Zephyrion retains his crown and commands the same respect as before; she is above, not replacing him
 - Command structure established:
     - Desmond and Lillinara: under Scarlet's direct command
