@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-10 **Current Story Date:** Day 1, Week 1 (Late Night)
+**Last Updated:** Raw-15 **Current Story Date:** Day 2, Week 1 (Morning)
 
 ---
 
@@ -51,21 +51,36 @@
 - Day 1 [Spire, Night]: Reina briefed by Lillinara on castle geography, House Vex, the Stonemother, Gor the minotaur, and safe training grounds
 - Day 1 [Spire, Night]: Seraphel sends message via Elara — Vorlag situation being handled; garrison command changes expected by morning
 - Day 1 [Spire, Night — Midnight bell]: End of Day 1; Lillinara and Elara depart; Scarlet and Reina alone in the spire
+- Day 1 [Spire, Late Night]: Scarlet at the window watching the magma flows; wings and tail restless with suppressed longing for flight
+- Day 1 [Spire, Late Night]: Scarlet spends the night in psychic communion with the castle — feels the Familiar sleeping in the deepest vault; drips a single drop of essence down to it; it stirs in recognition
+- Day 1 [Spire, Late Night]: Reina eventually sleeps; Scarlet does not sleep at all
+- Day 2 [Pre-dawn, Spire]: Scarlet rises, redresses; wakes Reina with repeated tail boops to the nose
+- Day 2 [Dawn, East Training Grounds]: First flight lesson with Aldric — Scarlet stays aloft briefly on first attempt, crashes into sand, correctly analyses what went wrong; second attempt significantly improved
+- Day 2 [Dawn, East Training Grounds]: Seraphel arrives at training grounds with news — Commander Vorlag has barricaded himself in the west armory with hostages and blackpowder, demanding the king produce Scarlet
+- Day 2 [Dawn, West Armory]: Scarlet extends her tail to ten metres under her skirt, dons quartz lenses, strides to the west armory; Aldric, Seraphel, and Reina fall in behind her
+- Day 2 [West Armory]: Scarlet blows the crossbowmen off their feet with a single wingbeat; tail coils around Vorlag's throat; Aldric disarms guards; Seraphel wards the blackpowder; Reina neutralises secondary attackers
+- Day 2 [West Armory]: Scarlet soul-devours Vorlag — absorbs his entire essence; his body drops empty; remaining guards surrender
+- Day 2 [West Armory]: Aldric secures the guards and establishes unified narrative — Vorlag's treason and lawful execution
+- Day 2 [Morning, East Training Grounds]: Scarlet returns to flight training; continues practising, improving control and use of air currents
+- Day 2 [Morning, Null-Chamber]: Magic lesson with Seraphel — containment exercise: stable power sphere held under psychic distraction (black stone chimes once); sustained beam emission test nearly saturates the measurement stone
+- Day 2 [Morning, Null-Chamber]: Break — Sunken Gardens tea with Lillinara; Scarlet and Reina both drink
+- Day 2 [Morning, Map Room]: Zephyrion summons Scarlet; Map Room meeting convenes — Scarlet, Zephyrion, Desmond, Aldric, Seraphel, Reina present
+- Day 2 [Morning, Map Room]: Scarlet analyses costs and gains of Vorlag's death; Seraphel warns the traditionalists will spin it as proof she is uncontrollable
+- Day 2 [Morning, Map Room]: Scarlet formally rejects the title of bride or queen; demands bed and board for herself and Reina as restitution; offers to serve as consultant only — all present agree
+- Day 2 [Morning, Map Room]: Scarlet states she is willing to consider becoming Empress if they make their case
+- Day 2 [Morning, Map Room]: Traditionalist faction explained — three wings: military (key fortresses), political (border regions), economic (gemstone mines and shadow-silk routes)
 
 ---
 
 ## Present
 
-- Day 1 [Spire, Late Night]: Scarlet at the window in sleepwear, watching the magma flows; wings and tail restless with suppressed longing for flight
-- Day 1 [Spire, Late Night]: Reina on her cot, keeping watch, also unable to sleep
-- Day 1 [Spire, Late Night]: Scarlet confirms to Reina she expects to have difficulty sleeping from now on
+- Day 2 [Morning, Map Room]: Meeting ongoing — Scarlet eating biscuits, asking about the origin of demon lords and the First Convergence
 
 ---
 
 ## Future
 
-- Day 2 [Dawn]: Flight training with Aldric — east training grounds
-- Day 2 [Morning]: Magic tutelage with Seraphel — his study
 - Day 2 [Evening]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (permits: Seraphel)
-- [Timing unconfirmed]: Commander Vorlag — ruin, then disappearance; Desmond handling; garrison command restructure expected by morning
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
+- [Timing unconfirmed]: Lillinara to bring backless undergarments suitable for a tail
+- [Timing unconfirmed]: Lillinara and Scarlet to practise shadow shapes and discuss tails
