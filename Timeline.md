@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-35 **Current Story Date:** Day 3, Week 1 (Late Morning)
+**Last Updated:** Raw-40 **Current Story Date:** Day 4, Week 1 (Morning)
 
 ---
 
@@ -116,20 +116,29 @@
 - Day 3 [Morning, Spire — Private council]: Essence Gift to Lillinara — same gift extended immediately for equality; manifested as violet lightning, sapphire-dark traceries on skin, crystal-shattering voice, psychic link to Scarlet established
 - Day 3 [Morning, Spire — Private council]: Psychic link tested — both Reina and Lillinara heard Scarlet clearly; Seraphel: "You are not just building an empire. You are creating a family of gods in a den of ghosts."
 - Day 3 [Morning, Spire — Private council]: Bath planned for approximately two hours from now; Elara invited; Seraphel tasked with informing Lady Sera she is invited
+- Day 3 [Afternoon, Spire — War council]: Scarlet holds informal war council from pillow nest with Zephyrion and Desmond; full campaign timeline finalised; Silk Gambit conceived — Lord Vex to occupy Silverpine Marches under merchant cover, Empress-infused silk monopoly as incentive, 20% Crown tax; Abyssal Skimmers confirmed as naval asset; war footing ordered — corner non-perishable food markets, stockpile weapons, maximise forge output
+- Day 3 [Afternoon, Spire — War council]: Scarlet shouts after departing men "You could always ask Lillinara to sort you out! And get rid of those dicks!" — both Zephyrion and Desmond had visible, unaddressed reactions
+- Day 3 [Night, Bathing Chamber]: Bath — Scarlet, Reina, Lillinara, Lady Sera, Elara; explicit consent check given to Elara before disrobing — she chose to stay; Lady Sera's first kiss with Scarlet; fade to black; last line: "I am the land… and the land belongs to its people"
+- Day 4 [Pre-dawn, Spire]: Scarlet alone not exhausted; towelled all four women dry; ushered them into her bed in underclothes; asked the castle to warm the room by a degree or two; tucked them in
+- Day 4 [Pre-dawn, Spire]: Third essence drop sent down to the Familiar — violent psychic roar in response: "YES. TAKE. BIND. CONSUME. WE ARE THE MOUNTAIN'S TEETH." Sulfur-yellow slitted eye opened; chains groaning
+- Day 4 [Dawn, Courtyard]: Scarlet chased the last stars; plummeted back to the courtyard in a steep dive trusting the castle to catch her — stone liquefied and formed a cradle, then resettled; Zephyrion witnessed it from the archway
+- Day 4 [Dawn, Courtyard]: Zephyrion confirms Lord Vex has been pacing in the antechamber for an hour; Hall of Worms agreed as venue; breakfast table to be set by the thrones
 
 ---
 
 ## Present
 
-- Day 3 [Late Morning, Spire]: Seraphel, Lillinara, and Reina have departed; Scarlet alone in the tower; intends to speak with Zephyrion
+- Day 4 [Morning]: Scarlet and Zephyrion heading to the Hall of Worms; Reina and the women still asleep in the spire; Lord Vex waiting in the antechamber
 
 ---
 
 ## Future
 
-- Day 3 [~2 hours from now]: Bath — Scarlet, Reina, Lillinara, Elara; Lady Sera invited
+- Day 4 [Morning, imminent]: Lord Vex breakfast meeting — Hall of Worms; Silk Gambit terms to be offered
 - [Timing unconfirmed]: Aldric to outfit Reina with armour and gear befitting Hand of the Empress; shadow-plate armour being etched with matching traceries to Reina's Essence Gift
 - [Timing unconfirmed]: Zephyrion to forge Scarlet an Empress's crown — obsidian
+- [Timing unconfirmed]: Desmond to report earliest possible start date for vampire house operations — controlling time factor for the campaign
+- [Timing unconfirmed]: Scarlet to travel to Silverpine Marches under Vex's merchant cover — requires subterranean sanctuary to be prepared first
 - [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
-- [Timing unconfirmed]: Lillinara and Scarlet to practise shadow shapes and discuss tails
+- [Timing unconfirmed]: Descent to the vault to reclaim the Familiar — Familiar now at three drops; one eye open; "SOON. THE MOUNTAIN WAITS"
