@@ -43,7 +43,7 @@ No other sections. No grouping within sections. No sub-headers. Each entry is a 
 
 ## Section Definitions
 
-**Past:** Everything that has happened before the present window. The full history of the story from the beginning. Entries are never removed — they accumulate. As time passes in the story, entries that were in Present roll down into Past.
+**Past:** Everything that has happened before the present window. The full history of the story from the beginning. Entries are never removed — they accumulate. As time passes in the story, entries that were in Present roll down into Past. Existing Past entries must be carried forward exactly as written — do not recompose, compress, or rephrase them. Only new entries are written fresh.
 
 **Present:** Approximately one hour of story time, centred as closely as possible on the current moment. Should capture what is actively happening right now — where characters are, what they are doing, what has just resolved or just begun. As the story moves forward, entries leave Present and enter Past.
 
