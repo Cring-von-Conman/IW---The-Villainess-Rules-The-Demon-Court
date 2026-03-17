@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-25 **Current Story Date:** Day 3, Week 1 (Dawn — Conclave Day)
+**Last Updated:** Raw-30 **Current Story Date:** Day 3, Week 1 (Post-Conclave, Morning)
 
 ---
 
@@ -91,18 +91,34 @@
 - Day 2 [Night, Spire]: Scarlet flies alone from the new balcony; Desmond witnesses
 - Day 2 [Night, Spire]: Second essence drop sent down to the Familiar in the vault — Familiar opens one molten gold eye; chains begin showing hairline stress fractures
 - Day 2 [Night, Spire]: Scarlet spends the night in communion with the castle; does not sleep; Zephyrion feels the castle's authority shift to the western spire and consciously yields
+- Day 3 [Dawn, Spire]: Reina opens the door at first light after standing watch all night; Scarlet at the balcony, fully awake, having greeted the dawn in communion with the land
+- Day 3 [Dawn, Spire]: Reina delivers good morning kiss; Scarlet decides to remain in the tower all day feigning illness — let the court wonder and worry
+- Day 3 [Morning, Spire]: Conclave plan finalised — Desmond added as third speaker after Lillinara, to testify on the blood and the soul he witnessed
+- Day 3 [Morning, Spire]: Aldric arrives to summon Scarlet; Scarlet retracts wings, horns, and tail; dons quartz lenses; departs for the Conclave Hall looking entirely human
+- Day 3 [Dusk, Conclave Hall]: Traditionalists take the stage; elderly head of House Vex calls for immediate execution by motion of dissolution; court reaches a baying fever pitch
+- Day 3 [Dusk, Conclave Hall]: Scarlet walks to the stage and asks for final words; delivers her story up to the First Convergence; calls Lillinara to the stage as witness
+- Day 3 [Dusk, Conclave Hall]: As Lillinara speaks, horns emerge, tail uncoils to full ten metres; wings unfurl with a loud crack; quartz lenses removed; power unleashed — floor glowing, heat haze, eyes fully lit
+- Day 3 [Dusk, Conclave Hall]: Scarlet hoists a viscount by the tail and throws him across the room; calls Desmond to the stage
+- Day 3 [Dusk, Conclave Hall]: Desmond testifies — "to call her a bride is to call a hurricane a summer breeze"
+- Day 3 [Dusk, Conclave Hall]: Castle raises obsidian podium beneath Scarlet's feet on her command, towering above throne and court; Scarlet asks "Why should I not devour every single one of you?"
+- Day 3 [Dusk, Conclave Hall]: Scarlet asks "What is the correct response when one such as I appears?"; Lord Vex puts his forehead to the floor and offers his house and lineage; Zephyrion kneels — voluntary, deliberate; Reina kneels at the base of the podium; court roars "Hail the Empress! Hail the Heart of the World!"
+- Day 3 [Dusk, Conclave Hall]: Scarlet has the castle manifest her obsidian throne on the exact stage centerline; Zephyrion's throne shifted off-center; dismissal — "You have the chance you were going to deny me. There will be no second chance. Dismissed."
+- Day 3 [Post-Conclave, Conclave Hall]: Command structure established — Reina and Lillinara titled Hands of the Empress; Desmond titled Seneschal of the Empire; all titled Councillors; Aldric and Seraphel remain nominally under Zephyrion but carry Scarlet's authority
+- Day 3 [Post-Conclave, Conclave Hall]: Scarlet's tower confirmed as permanent imperial quarters — will not be moved regardless of propriety
+- Day 3 [Post-Conclave, Conclave Hall]: Elara elevated to Empress's Lady; Kaelen assigned to mentor her on court logistics; Lillinara to teach her court navigation and the devastating smile; Reina to oversee basic combat awareness
 
 ---
 
 ## Present
 
-- Day 3 [Dawn, Spire]: Reina opens the door at first light after standing watch all night; Scarlet at the balcony, fully awake, having greeted the dawn in communion with the land
+- Day 3 [Morning, Post-Conclave]: Inner circle heading to the tower for breakfast; Scarlet hasn't eaten since before the Conclave
 
 ---
 
 ## Future
 
-- Day 3 [Dusk — today]: Grand Conclave Hall — traditionalists speak first; Scarlet takes the stage with wings, horns, and tail concealed until the moment she speaks; Lillinara called as witness
+- [Timing unconfirmed]: Aldric to outfit Reina with armour and gear befitting Hand of the Empress
+- [Timing unconfirmed]: Zephyrion to forge Scarlet an Empress's crown — obsidian
 - [Timing unconfirmed]: Scarlet to tell Seraphel she knows about Lady Sera — guided by Sera's timing
 - [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
