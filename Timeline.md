@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-40 **Current Story Date:** Day 4, Week 1 (Morning)
+**Last Updated:** Raw-45-FtB **Current Story Date:** Day 4, Week 1 (Afternoon)
 
 ---
 
@@ -123,22 +123,29 @@
 - Day 4 [Pre-dawn, Spire]: Third essence drop sent down to the Familiar — violent psychic roar in response: "YES. TAKE. BIND. CONSUME. WE ARE THE MOUNTAIN'S TEETH." Sulfur-yellow slitted eye opened; chains groaning
 - Day 4 [Dawn, Courtyard]: Scarlet chased the last stars; plummeted back to the courtyard in a steep dive trusting the castle to catch her — stone liquefied and formed a cradle, then resettled; Zephyrion witnessed it from the archway
 - Day 4 [Dawn, Courtyard]: Zephyrion confirms Lord Vex has been pacing in the antechamber for an hour; Hall of Worms agreed as venue; breakfast table to be set by the thrones
+- Day 4 [Morning, Hall of Worms]: Lord Vex breakfast meeting — Scarlet eating crumpets throughout; Silk Gambit terms agreed: Vex sets up merchant ventures in Silverpine as cover, prepares subterranean sanctuary for Scarlet's week-long stay, claims the Marches and glow-worms when humans evacuate, holds monopoly on Empress-infused silk, pays 20% Crown tax, must fortify settlement and lock down pass approaches; one chance — failure means being eaten
+- Day 4 [Morning, Hall of Worms]: Vex oversight assigned — Desmond for pressure and intimidation, Seraphel for taxation auditing; Scarlet will not deal with Vex directly unless demanding results
+- Day 4 [Morning, Corridors]: Departing Hall of Worms — Scarlet orders war footing transition to Zephyrion; Desmond assigned to contact vampire houses immediately; formal address to High Lords and Clan Heads scheduled for mid-afternoon, Hall of Worms; Bumpy remembered with horror by both Scarlet and Lillinara
+- Day 4 [Morning, Spire — Chambers]: Scarlet returns to find Sera and Elara still in bed; Lillinara sent to check on Bumpy for shadow-wyrm feeding tonight; Scarlet pounces on Sera; assigns Sera to outfit Lillinara with robes and jewellery befitting Hand of the Empress — Sera departs to organise by noon
+- Day 4 [Morning, Spire — Chambers]: Elara asks for more thorough confidence lessons; explicit consent check given; fade to black
+- Day 4 [Morning, Bathing Chamber]: Post-fade; Sera departs for the weavers; second bath — Scarlet, Reina, Elara; Reina makes direct request; fade to black
+- Day 4 [Morning, Bathing Chamber]: Post-fade aftercare — Reina in Scarlet's lap, Elara massaging feet; quiet recovery; Desmond arrives to confirm High Lords assembling in antechambers
 
 ---
 
 ## Present
 
-- Day 4 [Morning]: Scarlet and Zephyrion heading to the Hall of Worms; Reina and the women still asleep in the spire; Lord Vex waiting in the antechamber
+- Day 4 [Afternoon, Spire]: Scarlet on the balcony in shadow-silk, Reina and Elara emerging from the bath behind her; Desmond confirming High Lords are congregating; waiting for full assembly before entering
 
 ---
 
 ## Future
 
-- Day 4 [Morning, imminent]: Lord Vex breakfast meeting — Hall of Worms; Silk Gambit terms to be offered
-- [Timing unconfirmed]: Aldric to outfit Reina with armour and gear befitting Hand of the Empress; shadow-plate armour being etched with matching traceries to Reina's Essence Gift
+- Day 4 [Mid-afternoon, imminent]: Formal address to High Lords and Clan Heads — Hall of Worms; war footing declaration; Scarlet will not enter until all lords are assembled
+- Day 4 [Tonight — blood-moon]: Reina's shadow-plate armour completing — being etched with traceries matching her Essence Gift
+- Day 4 [Tonight]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms; Lillinara checking on him now
 - [Timing unconfirmed]: Zephyrion to forge Scarlet an Empress's crown — obsidian
 - [Timing unconfirmed]: Desmond to report earliest possible start date for vampire house operations — controlling time factor for the campaign
-- [Timing unconfirmed]: Scarlet to travel to Silverpine Marches under Vex's merchant cover — requires subterranean sanctuary to be prepared first
-- [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
+- [Timing unconfirmed]: Scarlet to travel to Silverpine Marches under Vex's merchant cover — requires subterranean sanctuary to be prepared first (~fortnight)
+- [Timing unconfirmed]: Descent to the vault to reclaim the Familiar — three drops given; one eye open; "SOON. THE MOUNTAIN WAITS"
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
-- [Timing unconfirmed]: Descent to the vault to reclaim the Familiar — Familiar now at three drops; one eye open; "SOON. THE MOUNTAIN WAITS"
