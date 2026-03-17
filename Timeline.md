@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-30 **Current Story Date:** Day 3, Week 1 (Post-Conclave, Morning)
+**Last Updated:** Raw-35 **Current Story Date:** Day 3, Week 1 (Late Morning)
 
 ---
 
@@ -106,20 +106,30 @@
 - Day 3 [Post-Conclave, Conclave Hall]: Command structure established — Reina and Lillinara titled Hands of the Empress; Desmond titled Seneschal of the Empire; all titled Councillors; Aldric and Seraphel remain nominally under Zephyrion but carry Scarlet's authority
 - Day 3 [Post-Conclave, Conclave Hall]: Scarlet's tower confirmed as permanent imperial quarters — will not be moved regardless of propriety
 - Day 3 [Post-Conclave, Conclave Hall]: Elara elevated to Empress's Lady; Kaelen assigned to mentor her on court logistics; Lillinara to teach her court navigation and the devastating smile; Reina to oversee basic combat awareness
+- Day 3 [Morning, Spire — Victory Breakfast]: Full inner circle at the table — Scarlet, Zephyrion (called back in), Lillinara, Seraphel (arrived mid-meal), Reina (standing), Desmond (shadows), Elara (seated); first time all present eat together
+- Day 3 [Morning, Spire — Victory Breakfast]: Scarlet's metabolism observed — ate a substantial amount, felt no fuller; Seraphel independently noted she was transmuting, not digesting — consistent with archival descriptions of First Lords becoming closed systems of recycled energy
+- Day 3 [Morning, Spire — Victory Breakfast]: Zephyrion's first genuine laughter on record
+- Day 3 [Morning, Spire — Private council]: Post-breakfast; Zephyrion, Aldric, Desmond, Elara depart; Reina, Lillinara, Seraphel remain
+- Day 3 [Morning, Spire — Private council]: Scarlet told Seraphel directly she knows about Lady Sera — "I don't like dicks. But I absolutely like Lady Sera." Seraphel's mask shattered; Lillinara wept with manic joy
+- Day 3 [Morning, Spire — Private council]: Reina's confession of love from the balcony — "not as a subject loves a crown, but as a person loves the air they breathe"; Scarlet held out open arms and said "Please"
+- Day 3 [Morning, Spire — Private council]: Essence Gift to Reina — fragment of Scarlet's power gifted via deep kiss; manifested as golden light beneath skin, healed old scars, tectonic voice resonance, psychic link to Scarlet established
+- Day 3 [Morning, Spire — Private council]: Essence Gift to Lillinara — same gift extended immediately for equality; manifested as violet lightning, sapphire-dark traceries on skin, crystal-shattering voice, psychic link to Scarlet established
+- Day 3 [Morning, Spire — Private council]: Psychic link tested — both Reina and Lillinara heard Scarlet clearly; Seraphel: "You are not just building an empire. You are creating a family of gods in a den of ghosts."
+- Day 3 [Morning, Spire — Private council]: Bath planned for approximately two hours from now; Elara invited; Seraphel tasked with informing Lady Sera she is invited
 
 ---
 
 ## Present
 
-- Day 3 [Morning, Post-Conclave]: Inner circle heading to the tower for breakfast; Scarlet hasn't eaten since before the Conclave
+- Day 3 [Late Morning, Spire]: Seraphel, Lillinara, and Reina have departed; Scarlet alone in the tower; intends to speak with Zephyrion
 
 ---
 
 ## Future
 
-- [Timing unconfirmed]: Aldric to outfit Reina with armour and gear befitting Hand of the Empress
+- Day 3 [~2 hours from now]: Bath — Scarlet, Reina, Lillinara, Elara; Lady Sera invited
+- [Timing unconfirmed]: Aldric to outfit Reina with armour and gear befitting Hand of the Empress; shadow-plate armour being etched with matching traceries to Reina's Essence Gift
 - [Timing unconfirmed]: Zephyrion to forge Scarlet an Empress's crown — obsidian
-- [Timing unconfirmed]: Scarlet to tell Seraphel she knows about Lady Sera — guided by Sera's timing
 - [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
 - [Timing unconfirmed]: Lillinara and Scarlet to practise shadow shapes and discuss tails
