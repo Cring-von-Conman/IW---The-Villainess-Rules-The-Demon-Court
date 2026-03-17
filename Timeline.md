@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-20 **Current Story Date:** Day 2, Week 1 (Afternoon)
+**Last Updated:** Raw-25 **Current Story Date:** Day 3, Week 1 (Dawn — Conclave Day)
 
 ---
 
@@ -78,21 +78,31 @@
 - Day 2 [Afternoon, Sunken Garden]: Scarlet confirms she will tell Seraphel she knows — guided by Sera's timing; Sera's guidance: tell him directly, in a controlled manner
 - Day 2 [Afternoon, Sunken Garden]: Tonight's plan confirmed — mingling in the Grand Hall with quartz lenses on; underestimation as a single-use weapon
 - Day 2 [Afternoon, Spire]: Return to tower; Lillinara found directing tailors on a new outfit; backless dresses and tail-accommodating undergarments ready
-- Day 2 [Afternoon, Bathing Chamber]: Bath begun — Scarlet, Lillinara, Reina; message arrives from Zephyrion: mingling moved forward, expected within the hour
-- Day 2 [Afternoon, Bathing Chamber]: Scarlet's first kiss given to Reina; Reina's knight's reserve begins to dissolve
+- Day 2 [Afternoon, Bathing Chamber]: Bath — Scarlet, Lillinara, Reina; first kiss given to Reina; kiss with Lillinara; three-way kiss; fade to black
+- Day 2 [Afternoon, Bathing Chamber]: Message arrives from Zephyrion — mingling moved forward, expected within the hour
+- Day 2 [Evening, Spire]: Scarlet dresses in the living shadow-silk gown with open back for wings; minimal jewellery from Desmond's selection; quartz lenses on
+- Day 2 [Evening, Grand Hall — Mingling]: Scarlet enters the Grand Hall; court mistakes her calm for submission; Scarlet consumes void-wheat pastries and numb-root essence as cover for feigned illness tomorrow
+- Day 2 [Evening, Grand Hall — Mingling]: Lord Vex approaches and publicly baits Scarlet; Scarlet humiliates him with weaponised politeness — comments on his weight under cover of an apology; turns her back and departs
+- Day 2 [Evening, Grand Hall — Mingling]: Scarlet tells Zephyrion she feels unwell and departs without waiting for a response; Zephyrion publicly covers for her exit
+- Day 2 [Evening, Spire]: Return to tower; Scarlet confirms Conclave plan — retract wings, horns, tail completely until she takes the stage; allow them to emerge only as she speaks
+- Day 2 [Night, Spire]: Desmond caught lurking in shadows; formally claimed into Scarlet's service — his blade, knowledge, and blood pledged to her will
+- Day 2 [Night, Spire]: Goodnight kisses — Reina and Lillinara both properly kissed; sent to sleep before the Conclave
+- Day 2 [Night, Spire — Second Convergence]: Scarlet wills the window open into a full balcony and cantilevered glass platform; the castle reshapes itself to her desire without ritual or conduit — Second Convergence confirmed
+- Day 2 [Night, Spire]: Scarlet flies alone from the new balcony; Desmond witnesses
+- Day 2 [Night, Spire]: Second essence drop sent down to the Familiar in the vault — Familiar opens one molten gold eye; chains begin showing hairline stress fractures
+- Day 2 [Night, Spire]: Scarlet spends the night in communion with the castle; does not sleep; Zephyrion feels the castle's authority shift to the western spire and consciously yields
 
 ---
 
 ## Present
 
-- Day 2 [Afternoon, Bathing Chamber]: Bath ongoing — Scarlet turning to Lillinara for the kiss Lillinara promised
+- Day 3 [Dawn, Spire]: Reina opens the door at first light after standing watch all night; Scarlet at the balcony, fully awake, having greeted the dawn in communion with the land
 
 ---
 
 ## Future
 
-- Day 2 [This evening — within the hour]: Mingling in the Grand Hall — quartz lenses on, polished noble bride presentation, underestimation as a single-use weapon
-- Day 3 [Dusk]: Grand Conclave Hall — traditionalists speak first; Scarlet takes the stage; Lillinara called as witness
+- Day 3 [Dusk — today]: Grand Conclave Hall — traditionalists speak first; Scarlet takes the stage with wings, horns, and tail concealed until the moment she speaks; Lillinara called as witness
 - [Timing unconfirmed]: Scarlet to tell Seraphel she knows about Lady Sera — guided by Sera's timing
 - [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
