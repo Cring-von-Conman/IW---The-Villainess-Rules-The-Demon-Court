@@ -1,6 +1,6 @@
 # Timeline
 
-**Last Updated:** Raw-15 **Current Story Date:** Day 2, Week 1 (Morning)
+**Last Updated:** Raw-20 **Current Story Date:** Day 2, Week 1 (Afternoon)
 
 ---
 
@@ -69,18 +69,31 @@
 - Day 2 [Morning, Map Room]: Scarlet formally rejects the title of bride or queen; demands bed and board for herself and Reina as restitution; offers to serve as consultant only — all present agree
 - Day 2 [Morning, Map Room]: Scarlet states she is willing to consider becoming Empress if they make their case
 - Day 2 [Morning, Map Room]: Traditionalist faction explained — three wings: military (key fortresses), political (border regions), economic (gemstone mines and shadow-silk routes)
+- Day 2 [Morning, Map Room]: First Convergence origin of demon lords confirmed — traditionalist purity doctrine is built on a lie; archival assault authorised by Zephyrion with his seal; Seraphel and Lillinara to secure oldest texts
+- Day 2 [Morning, Map Room]: Grand Conclave plan outlined — let traditionalists take the stage first; Seraphel and Lillinara to map alliances in the crowd; Scarlet takes the stage immediately after; Lillinara called as witness; Zephyrion steps aside — "The realm's heartbeat echoes in another"
+- Day 2 [Morning, Map Room]: Grand Conclave set for tomorrow at dusk; formal summons to be sent within the hour
+- Day 2 [Afternoon, Sunken Garden]: Scarlet meets Lady Sera beneath the obsidian weeping willow — psychic probe meets a mirror; Sera/Seraphel duality confirmed to Scarlet
+- Day 2 [Afternoon, Sunken Garden]: Scarlet tells Sera she sees who she prefers to be; Sera confirms this form feels like relief, not performance — the price is isolation
+- Day 2 [Afternoon, Sunken Garden]: Scarlet tells Sera she'd like to complete the set; Sera says dangerously appealing
+- Day 2 [Afternoon, Sunken Garden]: Scarlet confirms she will tell Seraphel she knows — guided by Sera's timing; Sera's guidance: tell him directly, in a controlled manner
+- Day 2 [Afternoon, Sunken Garden]: Tonight's plan confirmed — mingling in the Grand Hall with quartz lenses on; underestimation as a single-use weapon
+- Day 2 [Afternoon, Spire]: Return to tower; Lillinara found directing tailors on a new outfit; backless dresses and tail-accommodating undergarments ready
+- Day 2 [Afternoon, Bathing Chamber]: Bath begun — Scarlet, Lillinara, Reina; message arrives from Zephyrion: mingling moved forward, expected within the hour
+- Day 2 [Afternoon, Bathing Chamber]: Scarlet's first kiss given to Reina; Reina's knight's reserve begins to dissolve
 
 ---
 
 ## Present
 
-- Day 2 [Morning, Map Room]: Meeting ongoing — Scarlet eating biscuits, asking about the origin of demon lords and the First Convergence
+- Day 2 [Afternoon, Bathing Chamber]: Bath ongoing — Scarlet turning to Lillinara for the kiss Lillinara promised
 
 ---
 
 ## Future
 
-- Day 2 [Evening]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (permits: Seraphel)
+- Day 2 [This evening — within the hour]: Mingling in the Grand Hall — quartz lenses on, polished noble bride presentation, underestimation as a single-use weapon
+- Day 3 [Dusk]: Grand Conclave Hall — traditionalists speak first; Scarlet takes the stage; Lillinara called as witness
+- [Timing unconfirmed]: Scarlet to tell Seraphel she knows about Lady Sera — guided by Sera's timing
+- [Timing unconfirmed]: Shadow-wyrm feeding — Bumpy delivered to the shadow-wyrms (unaddressed since Day 1 plan)
 - [Timing unconfirmed]: Scarlet to accompany Reina on first visit to Gor the minotaur at the north arena
-- [Timing unconfirmed]: Lillinara to bring backless undergarments suitable for a tail
 - [Timing unconfirmed]: Lillinara and Scarlet to practise shadow shapes and discuss tails
